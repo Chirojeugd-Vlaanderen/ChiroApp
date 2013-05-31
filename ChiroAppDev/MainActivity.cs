@@ -9,12 +9,6 @@ using Android.OS;
 using Android.Telephony;
 //bgcolor
 using Android.Graphics;
-//locations
-using Android.Locations;
-using System.Threading;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 
 
@@ -22,9 +16,8 @@ using System.Text;
 namespace ChiroAppDev
 {
 	[Activity (Label = "Op Bivak!", Theme = "@style/Theme.Light")]
-	public class Activity1 : Activity, ILocationListener
+	public class Activity1 : Activity
 	{
-		LocationManager _locMgr;
 
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -84,8 +77,7 @@ namespace ChiroAppDev
 
 			};
 
-			// use location service directly       
-			_locMgr = GetSystemService (Context.LocationService) as LocationManager;
+		
 		}
 		private void verstuur (){
 			//initiate call
@@ -126,49 +118,7 @@ namespace ChiroAppDev
 				Android.Widget.Toast.MakeText (this, "DEV: bel naar " + Constants.TELNUMMER, ToastLength.Short).Show ();
 			}
 		}
-		protected override void OnResume(){
-			base.OnResume ();
-			var locationCriteria = new Criteria ();
-
-			locationCriteria.Accuracy = Accuracy.NoRequirement;
-			locationCriteria.PowerRequirement = Power.NoRequirement;
-
-			string locationProvider = _locMgr.GetBestProvider (locationCriteria, true);
-			_locMgr.RequestLocationUpdates (locationProvider, 2000, 1, this);
-		}
-		protected override void OnPause(){
-			base.OnPause ();
-
-			_locMgr.RemoveUpdates (this);
-		}
-		public void OnLocationChanged(Location location){
-			var locationText = FindViewById<TextView> (Resource.Id.locationText);
-			locationText.Text = string.Format ("Latitude = {0}, Longitude = {1}", location.Latitude, location.Longitude);
-
-			new Thread (new ThreadStart (() => {
-				var geocdr = new Geocoder (this);
-
-				var addresses = geocdr.GetFromLocation (location.Latitude, location.Longitude, 5);
-
-				//var addresses = geocdr.GetFromLocationName("Harvard University", 5);
-
-				RunOnUiThread( ()=> {
-					var addrText = FindViewById<TextView> (Resource.Id.addressText);
-					addresses.ToList ().ForEach((addr) => {
-						addrText.Append(addr.ToString () + "\r\n\r\n");
-					});
-				});
-
-			})).Start ();
-
-		}
-		public void OnProviderEnabled (string provider){
-		}
-		public void OnProviderDisabled (string provider){
-		}
-		public void OnStatusChanged (string provider, Availability status, Bundle extras){
-		}
-
+	
 	}
 }
 

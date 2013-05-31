@@ -115,9 +115,6 @@ namespace ChiroAppDev
 			// aapt resource value: 0x7f070002
 			public const int Text2 = 2131165186;
 			
-			// aapt resource value: 0x7f070016
-			public const int addressText = 2131165206;
-			
 			// aapt resource value: 0x7f070006
 			public const int antigifcentrum = 2131165190;
 			
@@ -147,9 +144,6 @@ namespace ChiroAppDev
 			
 			// aapt resource value: 0x7f070014
 			public const int infoText = 2131165204;
-			
-			// aapt resource value: 0x7f070015
-			public const int locationText = 2131165205;
 			
 			// aapt resource value: 0x7f070013
 			public const int myButton = 2131165203;

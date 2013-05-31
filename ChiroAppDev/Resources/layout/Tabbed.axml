@@ -13,16 +13,4 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/infoText" />
-    <TextView
-        android:text="Locatie"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/locationText" />
-    <TextView
-        android:text="Adres"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/addressText" />
 </LinearLayout>
