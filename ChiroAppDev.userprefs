@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChiroAppDev\MainActivity.cs">
+    <Files>
+      <File FileName="ChiroAppDev\MainActivity.cs" Line="89" Column="24" />
+      <File FileName="ChiroAppDev\Resources\values\groepen.xml" Line="917" Column="52" />
+      <File FileName="ChiroAppDev\Resources\values\Strings.xml" Line="4" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ChiroAppDev" expanded="True">
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+              <Node name="values" expanded="True" />
+            </Node>
+            <Node name="MainActivity.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChiroAppDev MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" MonoForAntroid.PreferredTheme="Theme.Holo.Light" AndroidDeviceId-Release="emulator-5554" AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

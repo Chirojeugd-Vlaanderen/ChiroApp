@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:text="Hulpdiensten (112)"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/hulpdiensten" />
+    <Button
+        android:text="Politie (101)"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/politie" />
+    <Button
+        android:text="Antigifcentrum (070 245 245)"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/antigifcentrum" />
+    <Button
+        android:text="Apotheek van wacht (€0.5/min)"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/apotheek" />
+<!--<Button
+        android:text="Dokter van wacht"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dokter" />-->
+</LinearLayout>

@@ -1,0 +1,7 @@
+ChiroAppDev.Activity1;chiroappdev.Activity1
+ChiroAppDev.SplashActivity;chiroappdev.SplashActivity
+ChiroAppDev.Tabactivity;chiroappdev.Tabactivity
+ChiroAppDev.SettingsActivity;chiroappdev.SettingsActivity
+ChiroAppDev.FaqActivity;chiroappdev.FaqActivity
+ChiroAppDev.EmergencyActivity;chiroappdev.EmergencyActivity
+ChiroAppDev.FaqAdapter;chiroappdev.FaqAdapter

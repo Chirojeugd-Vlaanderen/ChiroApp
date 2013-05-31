@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+		<string-array name="groepen_array">
+		<item>AG /0104 - Lore ( Antwerpen )</item>
+		<item>AG /0108 - DOLFIJN ( Antwerpen )</item>
+		<item>AG /0201 - WOKA ( WOMMELGEM )</item>
+		<item>AG /0202 - JOSTO ( Deurne )</item>
+		<item>AG /0203 - TOREKE ( Ranst )</item>
+		<item>AG /0207 - ICARUS ( Deurne )</item>
+		<item>AG /0209 - BROECHEM ( Broechem )</item>
+		<item>AG /0211 - STAM ( Mortsel )</item>
+		<item>AG /0302 - TERDONCK ( Schoten )</item>
+		<item>AG /0304 - DON BOSCO ( Schoten )</item>
+		<item>AG /0306 - BART ( Merksem )</item>
+		<item>AG /0308 - Tom en Sam ( Merksem )</item>
+		<item>AG /0309 - SINT JOZEF BLOEMENDAAL ( Schoten )</item>
+		<item>AG /0312 - ANTOONTJE ( Schoten )</item>
+		<item>AG /0313 - SINT JOB ( SINT-JOB-IN-T-GOOR )</item>
+		<item>AG /0401 - SINT JAN VIANNEY ( Wilrijk )</item>
+		<item>AG /0402 - \'t Allemanneke ( Wilrijk )</item>
+		<item>AG /0403 - DON BOSCO ( Hoboken )</item>
+		<item>AG /0407 - SINT BAVO ( WILRIJK )</item>
+		<item>AG /0502 - TEMPO ( Ekeren )</item>
+		<item>AG /0503 - KRISTAL ( stabroek )</item>
+		<item>AG /0504 - JOKA ( Kapellen )</item>
+		<item>AG /0506 - JEZ ZILVERENHOEK ( Kapellen )</item>
+		<item>AG /0507 - DE KIEVITJES ( Zandvliet )</item>
+		<item>AG /0701 - FRELUS ( Deurne )</item>
+		<item>AG /0704 - Feniks ( Deurne )</item>
+		<item>AG /0706 - JOKE-SCINDAL ( Wijnegem )</item>
+		<item>AG /0709 - Chiro Waks ( Zoersel )</item>
+		<item>AG /0801 - SLOEPI NIEUWMOER ( kalmthout )</item>
+		<item>AG /0802 - MEJOCA ( Kalmthout )</item>
+		<item>AG /0803 - GNIFFEL ( Wuustwezel )</item>
+		<item>AG /0804 - HAPPY DORP ( Essen )</item>
+		<item>AG /0805 - SI-JO ( Kalmthout )</item>
+		<item>AG /0808 - MYIN ( Kalmthout )</item>
+		<item>AG /0901 - BRASSCHAAT CENTRUM ( Brasschaat )</item>
+		<item>AG /0902 - Kaart jongens en meisjes ( Brasschaat )</item>
+		<item>AG /0903 - BETHANIE ( Brasschaat )</item>
+		<item>AG /0904 - DRIEHOEK ( Brasschaat )</item>
+		<item>AG /0907 - EKEREN DONK ( Ekeren )</item>
+		<item>AJ /0204 - JAP ( Borsbeek )</item>
+		<item>AJ /0210 - FONSKE ( Emblem )</item>
+		<item>AJ /0303 - SINT JOZEF ( Merksem )</item>
+		<item>AJ /0310 - SINT-FILIPPUS ( Schoten )</item>
+		<item>AJ /0311 - SLORATOKELS ( MERKSEM )</item>
+		<item>AJ /0405 - JONG VALAAR ( Wilrijk )</item>
+		<item>AJ /0408 - JOWEN JONGENS ( Wilrijk )</item>
+		<item>AJ /0409 - SENTROEM ( Hoboken )</item>
+		<item>AJ /0505 - DON BOSCO PUTTE-GRENS ( Putte Kapellen )</item>
+		<item>AJ /0702 - SINT ANTONIUS ( Zoersel )</item>
+		<item>AJ /0708 - GIEKE ( Schilde )</item>
+		<item>AJ /0807 - CHIROJONGENS HORENDONK ( Essen )</item>
+		<item>AM /0204 - JAP ( Borsbeek )</item>
+		<item>AM /0210 - FIENTJE ( Emblem )</item>
+		<item>AM /0301 - SINT FRANCISCUS ( Merksem )</item>
+		<item>AM /0303 - SINT JOZEF ( Merksem )</item>
+		<item>AM /0310 - SINT FILIPPUS ( Schoten )</item>
+		<item>AM /0311 - DIVORA ( Merksem )</item>
+		<item>AM /0405 - JONG VALAAR ( Wilrijk )</item>
+		<item>AM /0408 - JOWEN MEISJES ( wilrijk )</item>
+		<item>AM /0409 - KLINKER ( Hoboken )</item>
+		<item>AM /0505 - SINT DIONYSIUS ( Kapellen )</item>
+		<item>AM /0702 - HEILIGE ANTONIUS ( Zoersel )</item>
+		<item>AM /0708 - DON BOSCO ( Schilde )</item>
+		<item>AM /0806 - ONZE LIEVE VROUW ( Essen )</item>
+		<item>AM /0807 - KLAVERTJE 4 ( Essen )</item>
+		<item>BG /0102 - SPIRIT-ELCKERLYC ( Ganshoren )</item>
+		<item>BG /0107 - JIJIPEKE ( Sint-Jans-Molenbeek )</item>
+		<item>BG /0113 - SAGNOH ( Neder-Over-Heembeek )</item>
+		<item>BG /0114 - KRISTUS KONING MUTSAARD ( Brussel )</item>
+		<item>BG /0117 - SINT ANNEKE ( Koekelberg )</item>
+		<item>BG /0120 - OUDERGEM ( Oudergem )</item>
+		<item>BG /0124 - WACKO ( Anderlecht )</item>
+		<item>BG /0125 - CHIRO H20 ( Vorst )</item>
+		<item>BG /0205 - MEISE ( Meise )</item>
+		<item>BG /0207 - MALDEREN ( Malderen )</item>
+		<item>BG /0212 - MALEGIJS ( Londerzeel )</item>
+		<item>bg /0214 - SINT MARTINUS ( Ramsdonk )</item>
+		<item>BG /0301 - Sint Jan Berchmens - Sint Stefaan ( Sint-Stevens-Woluwe )</item>
+		<item>BG /0302 - MIKMAK ( Sterrebeek )</item>
+		<item>BG /0303 - Chiro STOKKEL ( Sint-Pieters-Woluwe )</item>
+		<item>BG /0304 - EUREKA ( Kraainem )</item>
+		<item>BG /0305 - Chiro Zaventem ( Zaventem )</item>
+		<item>BG /0306 - MALEIZEN ( Overijse )</item>
+		<item>BG /0307 - BERKENBLOESEM ( Wezembeek-Oppem )</item>
+		<item>BG /0309 - REINAERTKADOLLEKE ( Hoeilaart )</item>
+		<item>BG /0313 - Chiro Duisburg ( Duisburg )</item>
+		<item>BG /0316 -  ISERNA ( Overijse )</item>
+		<item>BG /0406 - SMASJH JEKO ( Sint-Pieters-Leeuw )</item>
+		<item>BG /0407 - RINGO HUIZINGEN ( Huizingen )</item>
+		<item>BG /0408 - SJOEN ( Linkebeek )</item>
+		<item>BG /0410 - Negenmanneke ( Sint-Pieters-Leeuw )</item>
+		<item>BG /0411 - SJALOOM ( Halle )</item>
+		<item>BG /0414 - ESPERANTO ( Alsemberg )</item>
+		<item>BG /0501 - WINDEKIND ( Groot Bijgaarden )</item>
+		<item>BG /0503 - KREATIEN ( LIEDEKERKE )</item>
+		<item>BG /0507 - BODEGEM ( Sint-Martens-Bodegem )</item>
+		<item>BG /0508 - HAKILO ( Hekelgem )</item>
+		<item>BG /0509 - VROLICK ELKERLICK ( Zellik )</item>
+		<item>BG /0511 - KKOS ( Asse )</item>
+		<item>BG /0601 - DE KRING ( Vilvoorde )</item>
+		<item>BG /0602 - HEILIG HART ( Vilvoorde )</item>
+		<item>bg /0604 - JOEP ( Machelen )</item>
+		<item>BG /0605 - SJALOOM ( VILVOORDE )</item>
+		<item>BG /0606 - FAR WEST ( Vilvoorde )</item>
+		<item>BG /0609 - SIKAMBERS ( Vilvoorde )</item>
+		<item>BG /0610 - SPLINTER ( Melsbroek )</item>
+		<item>BG /0704 - BEVER ( BEVER )</item>
+		<item>BG /0706 - RIF RAF ( Kokejane )</item>
+		<item>BG /0708 - ALBATROS ( Galmaarden )</item>
+		<item>BG /0710 - KARREVELD ( beert )</item>
+		<item>BJ /0104 - KORAAL ( Sint-Agatha-Berchem )</item>
+		<item>BJ /0201 - FLATER ( Wemmel )</item>
+		<item>BJ /0202 - EVERSHEIM ( Meise )</item>
+		<item>BJ /0204 - Chirojongens Londerzeel Centrum ( Londerzeel )</item>
+		<item>BJ /0206 - CHIRO WESTRODE ( Wolvertem )</item>
+		<item>BJ /0208 - APOLLO 8 ( Humbeek )</item>
+		<item>BJ /0209 - KLAAS ( Steenhuffel )</item>
+		<item>BJ /0213 - SINT NIKLAAS ( Kapelle-op-den-Bos )</item>
+		<item>BJ /0311 - BOSUIL ( Overijse )</item>
+		<item>BJ /0403 - SINT JAN ( Dworp )</item>
+		<item>BJ /0404 - SABBATH ( Buizingen )</item>
+		<item>BJ /0405 - DE VROENTJES ( lembeek )</item>
+		<item>BJ /0409 - SNOOPY ( Sint-Pieters-Leeuw )</item>
+		<item>BJ /0413 - KADASJ ( Halle )</item>
+		<item>BJ /0415 - EUREKA ( Lot )</item>
+		<item>BJ /0501 - DON BOSCO ( Groot-bijgaarden )</item>
+		<item>BJ /0502 - LOMBEEK ( Ternat )</item>
+		<item>BJ /0504 - AMIGO ( Schepdaal )</item>
+		<item>BJ /0505 - KAPELLE ( Sint Ulriks Kapelle )</item>
+		<item>BJ /0506 - JOKONTA ( Itterbeek )</item>
+		<item>BJ /0515 - IRIS ( Dilbeek )</item>
+		<item>BJ /0607 - SINT TARCITIUS ( Diegem )</item>
+		<item>BJ /0701 - WERE-DI ( Gooik )</item>
+		<item>BJ /0702 - AMIGO S ( Roosdaal )</item>
+		<item>BJ /0703 - UIDEKRIJ ( GOOIK )</item>
+		<item>BJ /0705 - LENNIK ( Lennik )</item>
+		<item>BJ /0707 - SINT PIETER ( Herne )</item>
+		<item>BJ /0712 - CASTRUM ( Kester )</item>
+		<item>BM /0104 - RADIUM ( Sint-Agatha-Berchem )</item>
+		<item>BM /0201 - KATOKE ( Wemmel )</item>
+		<item>BM /0202 - EVERSHEIM ( Meise )</item>
+		<item>BM /0204 - LONDERZEEL ( Londerzeel )</item>
+		<item>BM /0206 - CHIRO WESTRODE ( Wolvertem )</item>
+		<item>BM /0208 - SJALOOM ( Humbeek )</item>
+		<item>BM /0209 - KLAAS ( Steenhuffel )</item>
+		<item>BM /0210 - POL ( Opwijk )</item>
+		<item>BM /0213 - SINT AGNES ( Kapelle-op-den-bos )</item>
+		<item>BM /0311 - T SONIENJONCK ( Overijse )</item>
+		<item>BM /0317 - SINT MARTINUS ( Overijse )</item>
+		<item>BM /0403 - KROESJPERS ( Dworp )</item>
+		<item>BM /0404 - OIKA ( Buizingen )</item>
+		<item>BM /0405 - IDOENA ( Lembeek )</item>
+		<item>BM /0409 - SNOOPY ( Sint-Pieters-Leeuw )</item>
+		<item>BM /0413 - ALCHA ( Halle )</item>
+		<item>BM /0415 - FANTOMAS ( Lot )</item>
+		<item>BM /0502 - LOMBEEK ( Ternat )</item>
+		<item>BM /0504 - Chiro Pro-Jong ( Schepdaal )</item>
+		<item>BM /0505 - KAPELLE ( Sint Ulriks Kapelle )</item>
+		<item>BM /0506 - ALLEGRO ( Itterbeek )</item>
+		<item>BM /0512 - SAVIO ( DILBEEK )</item>
+		<item>BM /0513 - WALFERGEM ( ASSE )</item>
+		<item>BM /0515 - IRIS ( Dilbeek )</item>
+		<item>BM /0603 - PECHIES ( Perk )</item>
+		<item>BM /0607 - GIDI Diegem ( Diegem )</item>
+		<item>BM /0609 - HAMBURGERS ( Steenokkerzeel )</item>
+		<item>BM /0702 - AMIGO\'S ( Roosdaal )</item>
+		<item>BM /0703 - WINDEKIND ( Gooik )</item>
+		<item>BM /0705 - LENNIK ( Lennik )</item>
+		<item>BM /0707 - SINT PIETER ( Herne )</item>
+		<item>BM /0712 - HEIJE ( Kester )</item>
+		<item>KG /0101 - DON BOSCO ( Turnhout )</item>
+		<item>KG /0104 - VONK ( Turnhout )</item>
+		<item>KG /0105 - JOPI ( Turnhout )</item>
+		<item>KG /0106 - DE VRAAI ( Arendonk )</item>
+		<item>KG /0107 - SINT JOZEF ( Vosselaar )</item>
+		<item>KG /0110 - SINT APOLLONIA ( Turnhout )</item>
+		<item>KG /0202 - Onze Lieve Vrouw ( Olen )</item>
+		<item>KG /0203 - VORSELAAR ( Vorselaar )</item>
+		<item>KG /0204 - MORKHOVEN ( Morkhoven )</item>
+		<item>KG /0207 - ONZE LIEVE VROUW BOUWEL ( Bouwel )</item>
+		<item>KG /0210 - CENTRUM ( Olen )</item>
+		<item>KG /0304 - MIMO EPOESA ( Balen )</item>
+		<item>KG /0313 - Alhambra-Camora ( Mol )</item>
+		<item>KG /0317 - SINT HUBERTUS ( Balen )</item>
+		<item>KG /0318 - T OLMKE ( Olmen )</item>
+		<item>KG /0404 - DE KETEN ( Zoerle - Parwijs )</item>
+		<item>KG /0405 - Klein-Vorst ( laakdal )</item>
+		<item>KG /0407 - OLYMPIA DE ROTSEN ( Westerlo )</item>
+		<item>KG /0409 - SINT MICHIEL ( Westerlo )</item>
+		<item>KG /0411 - RAFIKI ( Westerlo )</item>
+		<item>KG /0413 - Chiro Eindhout ( Eindhout )</item>
+		<item>KG /0505 - SINT MARTINUS ( Westmalle )</item>
+		<item>KG /0508 - JOVO - BERKENLAND ( Rijkevorsel )</item>
+		<item>KG /0510 - NELTO ( Sint-Lenaarts )</item>
+		<item>KG /0607 - KRINGEL  ELSUM ( Geel )</item>
+		<item>KG /0608 - BEL ( Geel )</item>
+		<item>KG /0612 - BERG ( Meerhout )</item>
+		<item>KG /0613 - CHIRO GESTEL ( meerhout )</item>
+		<item>KJ /0102 - SINT-HUBERTUS ( Arendonk )</item>
+		<item>KJ /0109 - DE ZWAANTJES ( oud-turnhout )</item>
+		<item>KJ /0111 - HEITROTTERS ( Retie )</item>
+		<item>KJ /0112 - WEELDE ( Weelde )</item>
+		<item>KJ /0113 - SINT MARTINUS ( Retie )</item>
+		<item>KJ /0205 - SINT BAVO ( Noorderwijk )</item>
+		<item>KJ /0206 - KERATOS ( Herenthout )</item>
+		<item>KJ /0211 - DON BOSCO ( Gierle ( LILLE ) )</item>
+		<item>KJ /0302 - ALBATROS ( Mol )</item>
+		<item>KJ /0303 - MILOJEUGD ( MOL )</item>
+		<item>KJ /0306 - AMBIORIX ( Mol )</item>
+		<item>KJ /0310 - JOWILE ( Dessel )</item>
+		<item>KJ /0311 - SPERATOKA ( Dessel )</item>
+		<item>KJ /0401 - HEE DOE JE MEE ( Laakdal )</item>
+		<item>KJ /0403 - Sint-Servaas ( Herselt )</item>
+		<item>KJ /0406 - ALBATROS ( Laakdal )</item>
+		<item>KJ /0408 - KONTAKT ( Westerlo )</item>
+		<item>KJ /0410 - SINT HUBERTUS ( Herselt )</item>
+		<item>KJ /0412 - SINT MICHIEL ( Westmeerbeek )</item>
+		<item>KJ /0501 - SINT HUBERTUS ( Rijkevorsel )</item>
+		<item>KJ /0503 - SINT MICHIEL ( Brecht )</item>
+		<item>KJ /0504 - SINT JAN ( Meerle )</item>
+		<item>KJ /0506 - SINT LAURENTIUS ( Oostmalle )</item>
+		<item>KJ /0507 - SINT WILLIBRORD ( Merksplas )</item>
+		<item>KJ /0509 - CHILOEN ( Loenhout )</item>
+		<item>KJ /0511 - MEER ( Meer )</item>
+		<item>KJ /0601 - JOMESA ( Geel )</item>
+		<item>KJ /0602 - AKSPEJO (  Geel )</item>
+		<item>KJ /0603 - ALOWIO ( Geel )</item>
+		<item>KJ /0606 - ZAMMEL ( GEEL )</item>
+		<item>KJ /0609 - GEEL TEN AARD ( GEEL )</item>
+		<item>KJ /0611 - SINT WILBORT ( Kasterlee )</item>
+		<item>KM /0102 - O L VROUW VAN VREUGDE ( Arendonk )</item>
+		<item>KM /0109 - DE ZWAANTJES ( Oud-Turnhout )</item>
+		<item>KM /0111 - HEITROTTERS ( Retie )</item>
+		<item>KM /0113 - SINT AGNES ( Retie )</item>
+		<item>KM /0115 - Heidebiekens ( POPPEL )</item>
+		<item>KM /0205 - ONZE LIEVE VROUW OP T ZAND ( Noorderwijk )</item>
+		<item>KM /0206 - SINT PIETER ( Herenthout )</item>
+		<item>KM /0209 - LILLE ( Lille )</item>
+		<item>km /0211 - ONZE LIEVE VROUW ( GIERLE ( Lille )</item>
+		<item>KM /0302 - ALBATROS ( balen )</item>
+		<item>KM /0303 - MILOJEUGD ( Mol )</item>
+		<item>KM /0306 - PARAGON ( Mol )</item>
+		<item>KM /0307 - SPRANKEL ( Mol )</item>
+		<item>KM /0308 - GORABOS ( Mol )</item>
+		<item>KM /0310 - JOWILE ( DESSEL )</item>
+		<item>KM /0311 - SJALOOM ( Dessel )</item>
+		<item>KM /0312 - SINT ANDREAS ( Balen )</item>
+		<item>KM /0401 - KOM IN DE KRING ( veerle-laakdal )</item>
+		<item>KM /0402 - KREATO ( Westerlo )</item>
+		<item>KM /0403 - SINT SERVAAS ( Herselt )</item>
+		<item>KM /0406 - DE SCHAKEL ( Laakdal )</item>
+		<item>KM /0408 - SJALOOM ( WESTERLO )</item>
+		<item>KM /0410 - SINT HUBERTUS RAMSEL ( Ramsel )</item>
+		<item>KM /0412 - DAKAN ( Westmeerbeek )</item>
+		<item>KM /0501 - SINT JOZEF ( Rijkevorsel )</item>
+		<item>KM /0503 - SINT MICHIEL ( Brecht )</item>
+		<item>KM /0504 - SINT LUTGARD ( Meerle )</item>
+		<item>KM /0507 - SINT WILLIBRORD ( Merksplas )</item>
+		<item>KM /0509 - LOENHOUT ( Loenhout )</item>
+		<item>KM /0511 - MARCKENDAEL ( meer )</item>
+		<item>KM /0601 - JOMESA ( Geel )</item>
+		<item>KM /0602 - AKSPEJO ( Geel )</item>
+		<item>KM /0603 - BRANIE ( Geel )</item>
+		<item>KM /0604 - MOZAIKSKE ( GEEL )</item>
+		<item>KM /0606 - ZAMMEL ( Geel )</item>
+		<item>KM /0609 - Ten Aard ( Geel )</item>
+		<item>KM /0611 - SINT WIVINA ( Kasterlee )</item>
+		<item>LEG/0101 - SINT HUBERTUS ( WESPELAAR )</item>
+		<item>LEG/0102 - FROLEVITA ( Haacht )</item>
+		<item>LEG/0103 - ANTO ( Boortmeerbeek )</item>
+		<item>LEG/0104 - DAMIAAN ( Tremelo )</item>
+		<item>LEG/0105 - DON BOSCO ( Werchter )</item>
+		<item>LEG/0106 - WERE DI - SINT MICHIEL ( KEERBERGEN )</item>
+		<item>LEG/0107 - SINT MARTINUS ( Wezemaal )</item>
+		<item>LEG/0111 - KAMPENHOUT ( Kampenhout )</item>
+		<item>LEG/0201 - KAROO ( Bierbeek )</item>
+		<item>LEG/0202 - CRESCENDO ( Pellenberg )</item>
+		<item>LEG/0203 - HIPERLIE ( Korbeek-Lo )</item>
+		<item>LEG/0204 - HEKEKO ( Kessel-Lo )</item>
+		<item>LEG/0209 - SPIRIT ( Heverlee )</item>
+		<item>LEG/0213 - CHIRO PRO WIJGMAAL ( Wijgmaal )</item>
+		<item>LEG/0214 - SINT CAROLUS ( Holsbeek )</item>
+		<item>LEG/0215 - HOLSBEEK DORP ( HOLSBEEK )</item>
+		<item>LEG/0221 - DON BOSCO ( Kessel-Lo )</item>
+		<item>LEG/0222 - DON BOSCO ( Kortrijk-Dutsel )</item>
+		<item>LEG/0302 - T KLONTJE ( TIENEN )</item>
+		<item>LEG/0304 - DOMINIEK SAVIO ( Neerlinter )</item>
+		<item>LEG/0305 - JEUGDDROOM ( Zoutleeuw )</item>
+		<item>LEG/0306 - ROOSBEEK ( Boutersem )</item>
+		<item>LEG/0307 - NEMAS BINKOM ( Binkom )</item>
+		<item>LEG/0313 - Hogen ( Geetbets )</item>
+		<item>LEG/0314 - JOCUS ( Budingen )</item>
+		<item>LEG/0316 - MELKWEZER ( Linter )</item>
+		<item>LEG/0402 - PARADISO ( Schaffen )</item>
+		<item>LEG/0403 - HATSJEKIDEE ( Molenstede )</item>
+		<item>LEG/0405 - MAIS ( Bekkevoort )</item>
+		<item>LEG/0406 - SINT LUTGARDIS ( Scherpenheuvel )</item>
+		<item>LEG/0407 - DE KETEN ( Testelt )</item>
+		<item>LEG/0409 - Chiro Webbekom ( Diest )</item>
+		<item>LEG/0501 - OTTENBURG ( Ottenburg )</item>
+		<item>LEG/0504 - BLANDEN ( Haasrode )</item>
+		<item>LEG/0505 - SINT ANNA EN DON BOSCO ( Oud-Heverlee )</item>
+		<item>LEG/0506 - CHIRO KADEE ( Korbeek-Dijle )</item>
+		<item>LEG/0507 - LEEFDAAL ( Leefdaal )</item>
+		<item>LEG/0508 - DOERITSAN ( Bertem )</item>
+		<item>LEG/0509 - FLURK EVERBERG ( EVERBERG )</item>
+		<item>LEG/0510 - GODELIEVE DE MONTFORT ( Erps-Kwerps )</item>
+		<item>LEG/0602 - SKOEPIDOE ( Aarschot )</item>
+		<item>LEG/0605 - Sint Laurentius ( Betekom )</item>
+		<item>LEG/0606 - JEVATI ( Tielt - Winge )</item>
+		<item>LEG/0607 - ESJEEWEE ( SINT-JORIS-WINGE )</item>
+		<item>LEG/0608 - HEILIG HART Ourodenberg ( Aarschot )</item>
+		<item>LEG/0611 - Gijmel ( Langdorp )</item>
+		<item>LEJ/0109 - ST-ANNA  BAAL ( Baal )</item>
+		<item>LEJ/0216 - Vlierbeek ( Linden )</item>
+		<item>LEJ/0220 - BLAUWPUT ( Kessel-Lo )</item>
+		<item>LEJ/0310 - BREYDEL ( Hoegaarden )</item>
+		<item>LEJ/0404 - SINT BAVO ( Okselaar )</item>
+		<item>LEJ/0502 - SINT TARCITIUS ( Herent )</item>
+		<item>LEJ/0604 - SINT NIKLAAS ( Rillaar )</item>
+		<item>LEM/0109 - SINT LUTGARDIS ( Baal )</item>
+		<item>LEM/0216 - VLIERBEEK ( Kessel-Lo )</item>
+		<item>LEM/0220 - BLAUWPUT ( Kessel-Lo )</item>
+		<item>LEM/0310 - ALPAIDIS ( Hoegaarden )</item>
+		<item>LEM/0404 - SINT LUTGARDIS ( Okselaar )</item>
+		<item>LEM/0502 - FLITS EN KNAL ( Herent )</item>
+		<item>LEM/0604 - RILLKE ( Rillaar )</item>
+		<item>LG /0102 - SINT TARCITIUS ( Lommel )</item>
+		<item>LG /0103 - SINT JAN ( LOMMEL )</item>
+		<item>LG /0105 - DOEDIET ( Lommel )</item>
+		<item>LG /0109 - CLARA en SOOJ ( Overpelt )</item>
+		<item>LG /0114 - CHIRO JONATHAN ( Lommel )</item>
+		<item>LG /0202 - WAUBERG ( Peer )</item>
+		<item>LG /0203 - KAULILLE ( Kaulille )</item>
+		<item>LG /0207 - GRUITRODE ( Meeuwen-Gruitrode )</item>
+		<item>LG /0209 - Chiro St. Aldegondis As-Niel ( As )</item>
+		<item>LG /0213 - LOZEN ( Bocholt )</item>
+		<item>LG /0303 - KAMELEON ( Dilsen-Stokkem )</item>
+		<item>LG /0304 - MAGODOBO ( Maaseik )</item>
+		<item>LG /0401 - SINT WILLIBRORDUS Eisden-Dorp ( Maasmechelen )</item>
+		<item>LG /0402 - AKORI ( Maasmechelen )</item>
+		<item>LG /0403 - MAASMECHELEN ( Maasmechelen )</item>
+		<item>LG /0404 - GROMME ( Maasmechelen )</item>
+		<item>LG /0405 - PROOSTERBOS ( Maasmechelen )</item>
+		<item>LG /0407 - ONZE LIEVE VROUW EGLANTIER ( Bilzen )</item>
+		<item>LG /0409 - SINT MAURITIUS ( Bilzen )</item>
+		<item>LG /0410 - SINT ALBANUS ( Riemst )</item>
+		<item>LG /0412 - BAMMERD ( Val-Meer )</item>
+		<item>LG /0413 - SINT MARTINUS ( Sint Martens Voeren )</item>
+		<item>LG /0414 - JOOSKE ( Lanaken )</item>
+		<item>LG /0503 - DON BOSCO ZONNEWENDE ZWARTBERG ( genk )</item>
+		<item>LG /0506 - BOKRIJK ( Genk )</item>
+		<item>LG /0608 - SINT MARTINUS ( Houthalen )</item>
+		<item>LG /0612 - SINT PETRUS ( Beringen )</item>
+		<item>LG /0614 - VROLIJKE KRING ( Leopoldsburg )</item>
+		<item>LG /0615 - SINT LAMBERTUS ( Beverlo )</item>
+		<item>LG /0703 - TIJL EN NELE ( Ham )</item>
+		<item>LG /0704 - GENEBOS ( ham )</item>
+		<item>LG /0705 - Chiro-KSJ Tessenderlo ( Tessenderlo )</item>
+		<item>LG /0706 - JIB LOOI ( Tessenderlo )</item>
+		<item>LG /0711 - LEOUKI MELDERT vzw ( Meldert-Lummen )</item>
+		<item>LG /0712 - AVANTI ( Lummen )</item>
+		<item>LG /0714 - CHIRO HALEN ( Halen )</item>
+		<item>LG /0716 - ARIKA ( Herk-de-Stad )</item>
+		<item>LG /0804 - SINT JAN ( Kuringen )</item>
+		<item>LG /0805 - DON BOSCO EN SINT GERTRUDIS ( Kuringen )</item>
+		<item>LG /0806 - OLVA ( Hasselt )</item>
+		<item>LG /0808 - UILENSPIEGEL ( Hasselt )</item>
+		<item>LG /0812 - JOENTO ( Alken )</item>
+		<item>LG /0902 - LUDI ( Diepenbeek )</item>
+		<item>LG /0904 - Chiro Troot ( Kortessem )</item>
+		<item>LG /0909 - ATERSTAOSE ( Tongeren )</item>
+		<item>LG /0914 - SPRATIKE ( Kortessem )</item>
+		<item>LG /1006 - SINT CHRISTINA ( sint-truiden )</item>
+		<item>LG /1008 - ENGROLI ( Groot-Gelmen )</item>
+		<item>LG /1010 - BLOEI GRAAFLAND ( Borgloon )</item>
+		<item>LG /1011 - CHIROBLOESEMS ( borgloon )</item>
+		<item>LG /1012 - eNWéKA ( Nieuwerkerken )</item>
+		<item>LG /1014 - HARLEKIJN ( Heers )</item>
+		<item>LG /1017 - WILDURAANTJES ( Wilderen )</item>
+		<item>LG /1101 - SANKT VITH ( ST.VITH )</item>
+		<item>LJ /0108 - SINT MARTINUS ( Overpelt )</item>
+		<item>LJ /0110 - JEUGD IN WERKING ( Hamont - Achel )</item>
+		<item>LJ /0111 - SINT LAURENTIUS ( Hamont )</item>
+		<item>LJ /0112 - SINT LAMBERTUS ( Hechtel )</item>
+		<item>LJ /0201 - SINT TRUDO ( Peer )</item>
+		<item>LJ /0211 - SINT TARCITIUS ( Opglabbeek )</item>
+		<item>LJ /0301 - SINT MARTINUS ( Kinrooi )</item>
+		<item>LJ /0302 - SINT MONULFUS en GONDULFUS ( Rotem )</item>
+		<item>LJ /0305 - JOMENSA ( Opoeteren )</item>
+		<item>LJ /0306 - JOCHIMO ( kinrooi )</item>
+		<item>LJ /0408 - CHIROJONGENS SINT-JOZEF ( Bilzen )</item>
+		<item>LJ /0416 - PJZB PAROCHIALE JEUGDGROEP ( Riemst )</item>
+		<item>LJ /0417 - G.A.J. - Sprokkel ( Gellik - Lanaken )</item>
+		<item>LJ /0501 - SINT GEROLF ( Genk )</item>
+		<item>LJ /0502 - Chiro Bret- Gelieren jongens ( GENK )</item>
+		<item>LJ /0505 - SINT PAULUS ( Genk )</item>
+		<item>LJ /0601 - CHIROJONGENS DON BOSCO STAL ( Beringen )</item>
+		<item>LJ /0602 - SPRATOKA ( Zolder )</item>
+		<item>LJ /0604 - SINT FRANCISCUS ( Heusden-Zolder )</item>
+		<item>LJ /0605 - WIJ ( Koersel )</item>
+		<item>LJ /0606 - Chiro FONTEINTJE ( Koersel )</item>
+		<item>LJ /0607 - REFLECTOR ( Heusden-Zolder )</item>
+		<item>LJ /0609 - SINT LAMBERTUS ( Houthalen )</item>
+		<item>LJ /0610 - DOMINIEK SAVIO ( Houthalen-Helchteren )</item>
+		<item>LJ /0713 - SINT JORIS ( Herk-de-Stad )</item>
+		<item>LJ /0715 - SINT ANDREAS ( Halen )</item>
+		<item>LJ /0803 - CHIROJONGENS SINT LAMBERTUS KIEWIT ( Hasselt )</item>
+		<item>LJ /0807 - SINT- LAMBRECHTS-HERK ( St. Lambrechts-Herk )</item>
+		<item>LJ /0811 - SINT JOZEF ( ZONHOVEN )</item>
+		<item>LJ /0813 - JOKADI ( Alken )</item>
+		<item>LJ /0814 - CHIRO ST JAN BERCHMANS ZONHOVEN CENTRUM ( Zonhoven )</item>
+		<item>LJ /0901 - Chirojongens Rooierheide ( Diepenbeek )</item>
+		<item>LJ /0903 - SINT PIETER ( Kortessem )</item>
+		<item>LJ /0906 - SINT HUBERTUS ( Hoeselt )</item>
+		<item>LJ /0908 - SINT JOZEF ( Tongeren )</item>
+		<item>LJ /1002 - CHIROJONGENS RVM SINT-MARTEN ( Sint-Truiden )</item>
+		<item>LJ /1016 - WIJER ( Wijer )</item>
+		<item>LM /0104 - JEUGD NU ( Lommel )</item>
+		<item>LM /0108 - SINT LUTGARDIS ( Overpelt )</item>
+		<item>LM /0110 - AVANTI ( Achel )</item>
+		<item>LM /0111 - HAJO ( Hamont )</item>
+		<item>LM /0112 - SINT AGNES ( Hechtel )</item>
+		<item>LM /0113 - SAMOWE ( Neerpelt )</item>
+		<item>LM /0201 - SINT IMELDA ( Peer )</item>
+		<item>LM /0204 - BREUGHELCHIRO ( Grote-Brogel )</item>
+		<item>LM /0208 - VREUGDELAND ( Meeuwen )</item>
+		<item>LM /0211 - SCHAKEL ( opglabbeek )</item>
+		<item>LM /0302 - SINT LUTGARDIS ( Rotem )</item>
+		<item>LM /0305 - SINT LUTGARDIS ( Opoeteren )</item>
+		<item>LM /0306 - T DORPKE ( KINROOI )</item>
+		<item>LM /0307 - SINT MARTINUS ( Kinrooi )</item>
+		<item>LM /0308 - SINT PIETER Elen ( Dilsen-Stokkem )</item>
+		<item>LM /0309 - SINT LUTGARDES ( Dilsen-Stokkem )</item>
+		<item>LM /0406 - MEILACH ( Lanaken )</item>
+		<item>LM /0408 - CHIRO MEISJES EIK ( Bilzen )</item>
+		<item>LM /0501 - KRIS-KRAS ( genk )</item>
+		<item>LM /0502 - CHIRO BRET GELIEREN MEISJES ( Genk )</item>
+		<item>LM /0505 - DON BOSCO ( Genk )</item>
+		<item>LM /0509 - MOZAIEK ( Genk )</item>
+		<item>LM /0601 - SINT GERARDUS ( Beringen )</item>
+		<item>LM /0602 - SINT VINCENTIUS ( Heusden-Zolder )</item>
+		<item>LM /0603 - FUGEM ( Heusden-Zolder )</item>
+		<item>LM /0604 - SINT FRANCISCUS ( Heusden-zolder )</item>
+		<item>LM /0605 - SINT BRIGIDA ( Koersel )</item>
+		<item>LM /0606 -  CHIRO FONTEINTJE ( KOERSEL )</item>
+		<item>LM /0607 - HEILIG HART ( Heusden-Zolder )</item>
+		<item>LM /0609 - Sint-Lutgardis ( Houthalen )</item>
+		<item>LM /0610 - MARIA GORETTI ( Helchteren )</item>
+		<item>LM /0707 - IDOE ( Tessenderlo )</item>
+		<item>LM /0713 - SINT AMANDINDA ( Herk-de-Stad )</item>
+		<item>LM /0715 - SINT ANDREAS ( Halen )</item>
+		<item>LM /0803 - KIEWIT ( HASSELT )</item>
+		<item>LM /0811 - Chiromeisjes Halveweg ( Zonhoven )</item>
+		<item>LM /0813 - MIKADO ( Alken )</item>
+		<item>LM /0901 - HEILIG HART ( Diepenbeek )</item>
+		<item>LM /0903 - OKAPI ( Kortessem )</item>
+		<item>LM /0906 - SINT-HUBERTUS ( Hoeselt )</item>
+		<item>LM /0908 - ONZE LIEVE VROUW ( tongeren )</item>
+		<item>LM /0916 - CENTRUM HOESELT ( Hoeselt )</item>
+		<item>LM /1002 - SINT MARTEN ( SINT-TRUIDEN )</item>
+		<item>LM /1005 - SINT RITA ( Sint-Truiden )</item>
+		<item>LM /1016 - chiro meisjes wijer ( Wijer )</item>
+		<item>MG /0104 - LIPS LIER ( Lier )</item>
+		<item>MG /0111 - VALENTIJN ( Viersel )</item>
+		<item>MG /0112 - Reigersnest Zandhoven ( Zandhoven )</item>
+		<item>MG /0113 - SINT-STEFANUS ( Massenhoven )</item>
+		<item>MG /0301 - JERUBO ( Boom )</item>
+		<item>MG /0303 - CALIMERO ( Boom )</item>
+		<item>MG /0310 - SINT PETRUS EN PAULUS ( SCHELLE )</item>
+		<item>mg /0311 - Niel ( Niel )</item>
+		<item>MG /0313 - SINT GOEDELE ( Tisselt )</item>
+		<item>MG /0403 - ZONDERSCHOT ( Heist-op-den-Berg )</item>
+		<item>MG /0405 - HALLAAR ( Hallaar )</item>
+		<item>MG /0406 - ITEGEM ( Itegem )</item>
+		<item>MG /0407 - SINT RUM0LDUS HEIMATJE ( Berlaar )</item>
+		<item>MG /0410 - JEGRA ( Putte )</item>
+		<item>MG /0412 - CHIRO BEGIJNENDIJK ( Begijnendijk )</item>
+		<item>MG /0413 - Chiro Houtvenne ( Houtvenne )</item>
+		<item>MG /0415 - SINT SALVATOR ( Booischot )</item>
+		<item>MG /0502 - BORNEM ( Bornem )</item>
+		<item>MG /0503 - DON BOSCO ( Bornem )</item>
+		<item>MG /0504 - SINT PIETER + SINT LUTGARDIS ( puurs )</item>
+		<item>MG /0506 - OLV RUISBROEK ( Ruisbroek )</item>
+		<item>MG /0509 - Don Bosco ( Sint Amands )</item>
+		<item>MG /0801 - XL ( Mechelen )</item>
+		<item>MG /0802 - SINT LIBERTUS ( Mechelen )</item>
+		<item>mg /0803 - BATTEL ( MECHELEN )</item>
+		<item>MG /0804 - COLOMA ( mechelen )</item>
+		<item>MG /0807 - HEFFEN ( Heffen )</item>
+		<item>MG /0811 - CHIRO  AKSENT   BONHEIDEN ( Bonheiden )</item>
+		<item>MG /0815 - TIJL ( Zemst )</item>
+		<item>MG /0816 - SKIPPY ( Zemst-Laar )</item>
+		<item>MG /0817 - EPPEGEM ( Eppegem )</item>
+		<item>MJ /0101 - SINT GUMMARUS ( Lier )</item>
+		<item>MJ /0105 - BECHIBENG ( Bevel )</item>
+		<item>MJ /0106 - Gust ( Kessel )</item>
+		<item>MJ /0107 - JOCHIKO ( Koningshooikt )</item>
+		<item>MJ /0108 - Pako-Jo ( Nijlen )</item>
+		<item>MJ /0109 - JONG LEVEN ( Nijlen )</item>
+		<item>MJ /0302 - KONTAKT ( Boom )</item>
+		<item>MJ /0304 - SINT JEF ( Willebroek )</item>
+		<item>MJ /0306 - INSTUIF ( Blaasveld )</item>
+		<item>MJ /0309 - JOCHIHE ( Hemiksem )</item>
+		<item>MJ /0401 - CHIJOSTA ( Heist-op-den-Berg )</item>
+		<item>MJ /0402 - SINT JAN BERGHMANS ( Heist-op-den-Berg )</item>
+		<item>MJ /0408 - JOCHIBEER ( Beerzel )</item>
+		<item>MJ /0409 - SINT GEROLF ( Putte )</item>
+		<item>MJ /0414 - SINT MATTHEUS ( Hulshout )</item>
+		<item>MJ /0501 - SINT STEFANUS ( Hingene )</item>
+		<item>MJ /0505 - ONZE LIEVE VROUW TEN TRAAN ( Puurs )</item>
+		<item>MJ /0507 - T SNOTTERKE ( Oppuurs )</item>
+		<item>MJ /0508 - LIEZELE ( Puurs )</item>
+		<item>MJ /0510 - SINT LEONARDUS ( Breendonk )</item>
+		<item>MJ /0512 - SINT JAN BERCHMANS ( Sint-Amands )</item>
+		<item>MJ /0701 - KOKA ( Kontich )</item>
+		<item>MJ /0703 - HEILIGE LODEWIJK ( Waarloos )</item>
+		<item>MJ /0705 - ECHO ( AARTSELAAR )</item>
+		<item>MJ /0707 - CHIROJONGENS DUFFEL-OOST ( DUFFEL )</item>
+		<item>MJ /0708 - SINT JOZEF ( Duffel )</item>
+		<item>MJ /0805 - SINT LAMBERTUS  ( Muizen )</item>
+		<item>MJ /0806 - HOJE ( Hombeek )</item>
+		<item>mj /0808 - ZENNEDIJKERS ( Leest )</item>
+		<item>MJ /0809 - HEILIGE LEO ( Bonheiden )</item>
+		<item>MJ /0810 - SINT ELOOI ( Rijmenam )</item>
+		<item>MJ /0812 - SINT AUGUSTINUS ( Sint-Katelijne Waver )</item>
+		<item>MJ /0813 - JOCHI ( Hofstade )</item>
+		<item>MJ /0814 - SINT MARTINUS ( Weerde )</item>
+		<item>MM /0103 - HEILIG HART ( Lier )</item>
+		<item>MM /0105 - BECHIME ( bevel )</item>
+		<item>MM /0106 - NELE ( Kessel )</item>
+		<item>MM /0107 - SINT LUTGARDIS ( Koningshooikt )</item>
+		<item>MM /0108 - PAKOME ( Nijlen )</item>
+		<item>MM /0109 - ELCKERLYC ( Nijlen )</item>
+		<item>MM /0302 - KONTAKT ( Boom )</item>
+		<item>MM /0304 - Chiromeisjes Willebroek ( Willebroek )</item>
+		<item>MM /0306 - VITA ( Blaasveld )</item>
+		<item>MM /0309 - KLAASJE ( HEMIKSEM )</item>
+		<item>MM /0401 - SINT LUTGARDIS ( Heist-op-den-Berg )</item>
+		<item>MM /0402 - Heist Centrum ( Heist-op-den-Berg )</item>
+		<item>MM /0408 - MECHIBEER ( BEERZEL ( Beerzel )</item>
+		<item>MM /0409 - SINT AGNES ( Putte )</item>
+		<item>MM /0414 - SINT ANNA ( Hulshout )</item>
+		<item>MM /0501 - SINT STEFAAN ( bornem )</item>
+		<item>MM /0505 - HIMARANGA ( Puurs )</item>
+		<item>MM /0507 - SINT LUTGARDIS ( Oppuurs )</item>
+		<item>MM /0508 - LIEZELE ( Liezele )</item>
+		<item>MM /0510 - SINT LUTGARDIS ( Breendonk )</item>
+		<item>MM /0512 - HEILIGE IMELDA ( Sint-Amands )</item>
+		<item>MM /0701 - KOKA ( Kontich )</item>
+		<item>MM /0703 - SINT-MICHAEL ( Waarloos )</item>
+		<item>MM /0704 - KETEN LINT ( Lint )</item>
+		<item>MM /0705 - AKKEFIETJE ( Aartselaar )</item>
+		<item>MM /0706 - AURORA ( Reet )</item>
+		<item>MM /0707 - Duffel Oost ( Duffel )</item>
+		<item>MM /0708 - SINT AGNES ( Duffel )</item>
+		<item>MM /0805 - SINT LAMBERTUS ( Muizen )</item>
+		<item>MM /0806 - HOJE ( Hombeek )</item>
+		<item>MM /0808 - ZENNEDIJKERS ( Leest )</item>
+		<item>MM /0809 - OWAZE ( Bonheiden )</item>
+		<item>MM /0810 - SINT MAARTEN ( Rijmenam )</item>
+		<item>MM /0812 - SINT AUGUSTINUS ( Elzestraat ) ( Sint Katelijne Waver )</item>
+		<item>MM /0813 - AURORA ( Hofstade )</item>
+		<item>mm /0814 - SINT MARTINUS ( weerde )</item>
+		<item>OG /1203 - Chiro Destelbergen ( Destelbergen )</item>
+		<item>OG /1204 - SINT DANIEL Beervelde ( Beervelde )</item>
+		<item>OG /1205 - REINAERT ( Lochristi )</item>
+		<item>OG /1206 - Oude Bareel ( St Amandsberg )</item>
+		<item>OG /1207 - HEILIG HART ( Sint-Amandsberg )</item>
+		<item>OG /1208 - SIVI ( Gent )</item>
+		<item>OG /1209 - HEERNIS-MACHARIUS ( Gent )</item>
+		<item>OG /1214 - MENGELMOESH ( Gent )</item>
+		<item>OG /1215 - SINT THERESIA ( Gent )</item>
+		<item>OG /1216 - SINT JAN ( Gent )</item>
+		<item>OG /1217 - TOTEM ( Sint-Kruis-Winkel )</item>
+		<item>OG /1302 - LUDIEK ( Landegem )</item>
+		<item>OG /1303 - CHIRO LUVAND ( Lovendegem )</item>
+		<item>OG /1308 - TIJL EN NELE ( Drongen )</item>
+		<item>OG /1309 - TIEJAMO ( Drongen )</item>
+		<item>OG /1311 - KIEREWIET ( Bellem )</item>
+		<item>OG /1401 - DE REGENBOOG ( Zevergem )</item>
+		<item>OG /1404 - AMBO v.z.w. ( Zwijnaarde )</item>
+		<item>OG /1405 - GONTRODE ( Gontrode )</item>
+		<item>OG /1411 - SINT AGNES ( DE PINTE )</item>
+		<item>OG /1503 - VANNOES ( Maldegem )</item>
+		<item>OG /1504 - PAO ( Maldegem )</item>
+		<item>OG /1505 - OMMEKEER ( eeklo )</item>
+		<item>OG /1506 - WAARSCHOOT ( WAARSCHOOT )</item>
+		<item>OG /1508 - Chiro Komkomerin Lembeke ( Lembeke )</item>
+		<item>OG /1510 - IERLINCK ( KNESSELARE )</item>
+		<item>OG /1511 - SINT JOZEF ( Eeklo )</item>
+		<item>OG /1602 - MAGNEET ( Evergem )</item>
+		<item>OG /1604 - SINT LUTGARDIS - SINT PIETER ( ASSENEDE )</item>
+		<item>OG /2112 - Tiboe ( Wieze )</item>
+		<item>OG /2119 - Bobo ( Dendermonde )</item>
+		<item>OG /2120 - OMMEKAAR ( Baasrode )</item>
+		<item>OG /2203 - INTERJEUGDIG ( De Klinge )</item>
+		<item>OG /2204 - SALEGHEM ( Meerdonk )</item>
+		<item>OG /2205 - JUDOCUS ( Verrebroek )</item>
+		<item>og /2311 - CHIRO BURCHT ( Burcht )</item>
+		<item>OG /2312 - chiro Kallo ( KALLO ( BEVEREN-WAAS ) )</item>
+		<item>OG /2411 - OVERAL ( Temse )</item>
+		<item>OG /2413 - PRIPO ( Elversele )</item>
+		<item>OG /2501 - DEN AVERAAN ( Kalken )</item>
+		<item>OG /2507 - CHIRO \'T ROTJE ( Letterhoutem )</item>
+		<item>OG /2508 - HADEWIJCH ( Serskamp )</item>
+		<item>OG /2509 - Chiro Overschelde ( Wetteren )</item>
+		<item>OG /2510 - CHIRO KWATRECHT ( Wetteren )</item>
+		<item>OG /2512 - JEKO ( LOKEREN )</item>
+		<item>OG /3106 - SINT KRISTIEN ( Denderleeuw )</item>
+		<item>OG /3111 - POPOV ( Gijzegem )</item>
+		<item>OG /3122 - ATREJOE VZW ( Aalst )</item>
+		<item>OG /3125 - SINT LUTGARDIS ( LEDE )</item>
+		<item>OG /3303 - REGENBOOG ( NEDERBOELARE )</item>
+		<item>OG /3306 - SINT AGNES ( Ninove )</item>
+		<item>OG /3307 - ELEGAST ( Idegem )</item>
+		<item>OG /3311 - JOKIDO ( lierde )</item>
+		<item>OG /3315 - MOEVIA ( Moerbeke )</item>
+		<item>OG /3401 - ONDERGRONSE ( Ronse )</item>
+		<item>OG /3402 - JKRRUIEN ( Kluisbergen )</item>
+		<item>OG /3409 - SINT MARTINUSHEILIG BERNADETTE ( oudenaarde )</item>
+		<item>OG /3410 - EINE ( Oudenaarde )</item>
+		<item>OG /3411 - BEVERE ( Oudenaarde )</item>
+		<item>OG /3412 - CHIFOMI ( Schorisse )</item>
+		<item>OG /3503 - SINT-ANDRIES ( Zottegem )</item>
+		<item>OG /3505 - HEILIG HART ( Zottegem )</item>
+		<item>OG /3506 - OKIDO ( Herzele )</item>
+		<item>OG /3507 - MARSUPILAMI ( Zwalm )</item>
+		<item>OG /3510 - SINT KATRIEN ( Herzele )</item>
+		<item>OJ /1201 - SINT AMANDUS ( Oostakker )</item>
+		<item>OJ /1202 - ONZE LIEVE VROUW VAN LOURDES ( Oostakker )</item>
+		<item>OJ /1301 - SINT JAN BERCHMANS ( Mariakerke )</item>
+		<item>OJ /1304 - PAVE ( Drongen )</item>
+		<item>OJ /1402 - TREFPUNT ( Merelbeke )</item>
+		<item>OJ /1403 - SCHELDERING ( Melle )</item>
+		<item>OJ /1412 - WERE DI ( Bottelare )</item>
+		<item>OJ /1507 - SINT JORIS ( Sleidinge )</item>
+		<item>OJ /1601 - BRUG ( ZELZATE )</item>
+		<item>OJ /1609 - SINT PAULUS ( Ertvelde )</item>
+		<item>OJ /2106 - KRIKOJO ( Lebbeke )</item>
+		<item>OJ /2107 - DON BOSCO ( Grembergen )</item>
+		<item>OJ /2108 - Knudde ( Moerzeke )</item>
+		<item>OJ /2109 - SINT JAN BERCHMANS ( Berlare )</item>
+		<item>OJ /2110 - HEMO ( Buggenhout )</item>
+		<item>OJ /2111 - KADEE ( Appels )</item>
+		<item>OJ /2114 - HEILIG KRUIS ( lebbeke )</item>
+		<item>OJ /2115 - SPERATO ( Hamme )</item>
+		<item>OJ /2118 - JOCHI ( Zele )</item>
+		<item>OJ /2201 - JUVENTA ( KEMZEKE )</item>
+		<item>OJ /2202 - SINT-ANDREAS ( Stekene )</item>
+		<item>OJ /2208 - WIJ ( Sinaai )</item>
+		<item>OJ /2301 - SINT GEROLF ( Melsele )</item>
+		<item>OJ /2302 - CHIRO BEVEREN ( Beveren )</item>
+		<item>OJ /2304 - ALTENA ( Kruibeke )</item>
+		<item>OJ /2306 - INZET ( bazel )</item>
+		<item>OJ /2309 - VRACHIJO ( Vrasene )</item>
+		<item>OJ /2310 - KRISTUS KONING ( ZWIJNDRECHT )</item>
+		<item>OJ /2402 - KOMVERDROM ( Sint-Niklaas )</item>
+		<item>OJ /2406 - STADERAS ( Belsele )</item>
+		<item>OJ /2511 - JUVENTUD ( Wichelen )</item>
+		<item>OJ /2514 - Sint-Gerolf ( Overmere )</item>
+		<item>OJ /3101 - MAEVA ( Aalst )</item>
+		<item>OJ /3110 - FAIDOLI ( ERPE MERE )</item>
+		<item>OJ /3116 - DE BELHAMEL ( Ottergem )</item>
+		<item>OJ /3118 - SINT STEFAAN ( Moorsel )</item>
+		<item>OJ /3120 - JOSPAAI ( AAIGEM )</item>
+		<item>OJ /3204 - SINGA ( Kruishoutem )</item>
+		<item>OJ /3206 - SJIMA ( Machelen )</item>
+		<item>OJ /3302 - SINT BARTEL ( Geraardsbergen )</item>
+		<item>OJ /3304 - LEEUWERIK ( Denderwindeke )</item>
+		<item>OJ /3309 - TOONTJE ( Ninove )</item>
+		<item>OJ /3313 - SJALOOM ( Meerbeke )</item>
+		<item>OJ /3509 - SINT MARTINUS ( Zottegem )</item>
+		<item>OJ /3511 - SINT JOZEF ( Balegem )</item>
+		<item>OM /1201 - SINT AMANDUS ( Oostakker )</item>
+		<item>OM /1202 - ONZE LIEVE VROUW VAN LOURDES ( Oostakker )</item>
+		<item>OM /1210 - DE ZUILDEKENS ( ZAFFELARE ( Lochristi ) )</item>
+		<item>OM /1301 - ONZE LIEVE VROUW ( Mariakerke )</item>
+		<item>OM /1304 - EGLANTIER ( Drongen )</item>
+		<item>OM /1310 - DE KAPROENEN ( Mariakerke )</item>
+		<item>OM /1402 - SCHELDEBLOEM ( Merelbeke )</item>
+		<item>OM /1403 - GEERTRUI ( Melle )</item>
+		<item>OM /1406 - TEL AVIV ( Oosterzele )</item>
+		<item>OM /1408 - JOKIDO ( gentbrugge )</item>
+		<item>OM /1412 - KLIMOP ( bottelare )</item>
+		<item>OM /1507 - INNEJO ( sleidinge )</item>
+		<item>OM /1512 - EKYRPAK ( Kaprijke )</item>
+		<item>OM /1601 - SAMJOLE ( Zelzate )</item>
+		<item>OM /1605 - WEWEKO ( Evergem )</item>
+		<item>OM /1606 - POLLYANNA ( wachtebeke )</item>
+		<item>OM /1607 - BEUKENHOUT ( Boekhoute )</item>
+		<item>OM /1609 - SJALOOM ( Ertvelde )</item>
+		<item>OM /2103 - KREALE ( Dendermonde )</item>
+		<item>OM /2106 - SONNEVELD ( Lebbeke )</item>
+		<item>OM /2107 - SAGEVO ( Grembergen )</item>
+		<item>OM /2108 - PIMPERNEL ( Moerzeke )</item>
+		<item>OM /2109 - ELCKERLYC ( Berlare )</item>
+		<item>OM /2110 - HEMO ( Buggenhout )</item>
+		<item>OM /2111 - EJO ( Appels )</item>
+		<item>OM /2115 - SPODASPEZA ( Hamme )</item>
+		<item>OM /2118 - JOCHIM ( Zele )</item>
+		<item>OM /2201 - HERMELINDE ( Kemzeke )</item>
+		<item>OM /2202 - SINT AGNES ( Stekene )</item>
+		<item>OM /2208 - ALLEMAN ( sinaai )</item>
+		<item>OM /2301 - IEWEKO ( Melsele )</item>
+		<item>OM /2302 - SINT MARTINUS ( Beveren )</item>
+		<item>OM /2303 - SINT LUTGARD ( Beveren )</item>
+		<item>OM /2304 - ADELHEID ( Kruibeke )</item>
+		<item>OM /2305 - DE SPIRAAL ( Rupelmonde )</item>
+		<item>OM /2306 - INTERVORAN ( Bazel )</item>
+		<item>OM /2310 - WINDEKIND ( Zwijndrecht )</item>
+		<item>OM /2401 - KRIKO ( Sint-Niklaas )</item>
+		<item>OM /2402 - JOMOKRI ( Sint-Niklaas )</item>
+		<item>OM /2406 - STADERAS ( Belsele )</item>
+		<item>OM /2407 - IRIS ( Nieuwkerken-waas )</item>
+		<item>OM /2503 - HERMELINE ( Wetteren )</item>
+		<item>OM /2511 - SINT ANNA ( Lokeren )</item>
+		<item>OM /2514 - SINT LUTGARDIS ( Overmere )</item>
+		<item>OM /3101 - SJALOOM ( AALST )</item>
+		<item>OM /3102 - GENTIAAN ( Aalst )</item>
+		<item>OM /3107 - JARGILL ( erpe )</item>
+		<item>OM /3108 - NELE ( Lede )</item>
+		<item>OM /3109 - SINTE GOEDELE ( Hofstade )</item>
+		<item>OM /3110 - MARJOLIJN ( ERPE MERE )</item>
+		<item>OM /3112 - SINT LUTGARDIS ( Welle )</item>
+		<item>OM /3113 - HARBALORIFA ( Herdersem )</item>
+		<item>OM /3116 - SINT LIEVE ( Erondegem )</item>
+		<item>OM /3118 - EGLANTIER ( Moorsel )</item>
+		<item>OM /3120 - KLIMOP ( Erpe-Mere )</item>
+		<item>OM /3201 - KADOL ( Olsene )</item>
+		<item>OM /3202 - KANJO ( Zulte )</item>
+		<item>OM /3204 - VLINDERIA ( Kruishoutem )</item>
+		<item>OM /3206 - HITO ( Zulte-Machelen )</item>
+		<item>OM /3302 - SINT BARTEL ( geraardsbergen )</item>
+		<item>OM /3304 - WINDEKIND ( Denderwindeke )</item>
+		<item>OM /3313 - FLOS ( Meerbeke )</item>
+		<item>OM /3509 - SINT MARTINUS ( Zottegem )</item>
+		<item>OM /3511 - SINT LUTGARDIS ( Balegem )</item>
+		<item>WG /0105 - MOEN ( Moen )</item>
+		<item>WG /0106 - TOF WISTIK ( Otegem )</item>
+		<item>WG /0107 - TER PLEKKE ( Sint-Denijs )</item>
+		<item>WG /0202 - SINT JOZEF ( Brugge )</item>
+		<item>WG /0203 - OP DEN DIJK ( Brugge )</item>
+		<item>WG /0204 - SINT JORIS T LEITJE ( Assebroek )</item>
+		<item>WG /0206 - WAWW ( Sint-Andries )</item>
+		<item>WG /0207 - BEUKENHOF ( Brugge )</item>
+		<item>WG /0210 - SINT ARNOLD-STEENBRUGGE ( assebroek )</item>
+		<item>WG /0211 - Zuienkerke ( Zuienkerke )</item>
+		<item>WG /0302 - Chiro Heist ( Knokke-Heist )</item>
+		<item>WG /0401 - SINT JORIS ( Beernem )</item>
+		<item>WG /0405 - RAZZMAKKER ( Oedelem )</item>
+		<item>WG /0406 - SINT PETRUS OOSTVELD ( Oedelem )</item>
+		<item>WG /0501 - SINT JAN ( Houthulst )</item>
+		<item>WG /0502 - KLIMOP ( Keiem )</item>
+		<item>WG /0505 - REGENBOOG ( Leke )</item>
+		<item>WG /0507 - WOUMEN ( Woumen )</item>
+		<item>WG /0508 - Chiro spartok ( Handzame ) ( Kortemark )</item>
+		<item>WG /0509 - SINT PIETER ( Esen )</item>
+		<item>WG /0511 - ZARREN ( Zarren )</item>
+		<item>WG /0602 - ONZE LIEVE VROUW ( ieper )</item>
+		<item>WG /0605 - GLOBETROTTERS ( Brielen )</item>
+		<item>WG /0606 - EKEBELLOH ( Hollebeke )</item>
+		<item>WG /0607 - Chiro Vlamertinge ( Vlamertinge )</item>
+		<item>WG /0608 - WIJ( T )SCHATEREN ( Wijtschate )</item>
+		<item>WG /0609 - ZILLEBEKE ( Zillebeke )</item>
+		<item>WG /0610 - ZONNEZEE ( Zonnebeke )</item>
+		<item>WG /0611 - KAMELEON ( Voormezele )</item>
+		<item>WG /0701 - MANDELBURCHT ( Ingelmunster )</item>
+		<item>WG /0702 - JEFRI ( Ingelmunster )</item>
+		<item>WG /0703 - BOSMOLENS ( Izegem )</item>
+		<item>WG /0704 - UILENSPIEGEL ( IZEGEM )</item>
+		<item>WG /0707 - KIEKEBOE SENTE ( kuurne )</item>
+		<item>WG /0901 - VERTICAAL ( Bavikhove )</item>
+		<item>WG /0903 - TIJL EN NELE ( Harelbeke )</item>
+		<item>WG /0904 - ZANDBERG ( Harelbeke )</item>
+		<item>WG /0905 - STASEGEM ( Harelbeke )</item>
+		<item>WG /0906 - DE SPROKKELS ( Hulste )</item>
+		<item>WG /0908 - KIEREWIET ( Kuurne )</item>
+		<item>WG /1001 - KORNEELKE ( Aalbeke )</item>
+		<item>WG /1002 - STINE ( Heule )</item>
+		<item>WG /1004 - OKIDO ( Gullegem )</item>
+		<item>WG /1006 - TSJOEF ( Heule )</item>
+		<item>WG /1007 - TANDEM ( Rollegem )</item>
+		<item>WG /1012 - T STRATJE ( Bellegem )</item>
+		<item>WG /1013 - KNIPOOG ( KORTRIJK )</item>
+		<item>WG /1014 - SINT JAN ( Kortrijk )</item>
+		<item>WG /1015 - ROCHIRO ( Kortrijk )</item>
+		<item>WG /1103 - SPERATOKER ( Geluwe )</item>
+		<item>WG /1104 - CHIRO OLTEGOARE MOORSELE ( moorsele )</item>
+		<item>WG /1105 - MIENGELIENGE ( Ledegem )</item>
+		<item>WG /1106 - Dienamiet - Pit In ( Menen )</item>
+		<item>WG /1109 - JOW ( Wervik )</item>
+		<item>WG /1110 - PENDOENDER ( Rekkem )</item>
+		<item>WG /1204 - TER STREEP ( Westende )</item>
+		<item>WG /1301 - SAS ( Bredene )</item>
+		<item>WG /1304 - MARIAKERKE ( Oostende )</item>
+		<item>WG /1306 - SINT ARNOUT ( Oudenburg )</item>
+		<item>WG /1307 - SNAASKERKE ( Snaaskerke )</item>
+		<item>WG /1311 - \'T ARK ( Leffinge )</item>
+		<item>WG /1401 - HARO ( Poperinge )</item>
+		<item>WG /1402 - TREZEBEES ( Beauvoorde )</item>
+		<item>WG /1404 - ABELE ( Poperinge ( Abele ) )</item>
+		<item>WG /1405 - SJALOOM ( Alveringem )</item>
+		<item>WG /1406 - PARCIFAL ( Alveringem )</item>
+		<item>WG /1407 - PIMPERNEL ( Westvleteren )</item>
+		<item>WG /1411 - DOKIO ( Reningelst )</item>
+		<item>WG /1412 - WINDEKIND ( Adinkerke )</item>
+		<item>WG /1503 - T GEETJE ( HOOGLEDE )</item>
+		<item>WG /1504 - MOZAïEK ( Moorslede )</item>
+		<item>WG /1505 - KIEKEBOE ( Passendale )</item>
+		<item>WG /1506 - ROMEJO ( Roeselare )</item>
+		<item>WG /1510 - ZILVERBERG ( Roeselare )</item>
+		<item>WG /1517 - JOMEGO ( Roeselare )</item>
+		<item>WG /1518 - EDELWEISS ( Koolskamp )</item>
+		<item>WG /1602 - NELLEKIJN ( Dentergem )</item>
+		<item>WG /1605 - T KARTOUCHKE ( Pittem )</item>
+		<item>WG /1609 - JOKWY-MEKWY ( Wingene )</item>
+		<item>WG /1610 - ELCKERLYC ( Tielt )</item>
+		<item>WG /1611 - ATADURA ( Kanegem )</item>
+		<item>WG /1701 - AARTRIJKE ( AARTRIJKE )</item>
+		<item>WG /1703 - JOMADA ( Torhout )</item>
+		<item>WG /1708 - ZEDELGEM DORP ( Zedelgem )</item>
+		<item>WG /1710 - GROEZIE ( Bekegem )</item>
+		<item>WG /1801 - T SLEUTELKE ( Oeselgem )</item>
+		<item>WG /1806 - DE GINSTE ( oostrozebeke )</item>
+		<item>WJ /0101 - SCHELDEDAL ( Avelgem )</item>
+		<item>WJ /0102 - PRINS VAN STEENHUYSE ( Heestert )</item>
+		<item>WJ /0103 - Jongenschiro Yvegem ( Ingooigem )</item>
+		<item>WJ /0108 - T AXENT ( Zwevegem )</item>
+		<item>WJ /0209 - WILGENLAND ( Loppem )</item>
+		<item>WJ /0404 - SPARREGALM ( Hertsberge )</item>
+		<item>WJ /0506 - SINT MAARTEN ( Koekelare )</item>
+		<item>WJ /0604 - LANGE JO ( Langemark )</item>
+		<item>WJ /0705 - SINT JAN ( Izegem )</item>
+		<item>WJ /0706 - SINT NICO ( LENDELEDE )</item>
+		<item>WJ /0709 - SINT-PIETER ( Emelgem )</item>
+		<item>WJ /0902 - DE NIEUWE GENERATIE ( Deerlijk )</item>
+		<item>WJ /0907 - SINT MICHIEL ( Kuurne )</item>
+		<item>WJ /1005 - OSKAARKE ( Lauwe )</item>
+		<item>WJ /1009 - DON BOSCO ( Kortrijk )</item>
+		<item>WJ /1010 - CHIROJONGENS WEVELGEM VZW ( Wevelgem )</item>
+		<item>WJ /1101 - SINT MARTINUS ( Beselare )</item>
+		<item>WJ /1102 - DE BELHAMEL ( Dadizele )</item>
+		<item>WJ /1202 - DE BRANDING ( Nieuwpoort )</item>
+		<item>WJ /1303 - SINT GODELIEVE ( gistel )</item>
+		<item>WJ /1306 - SPEELVOGELS ( Oostende )</item>
+		<item>WJ /1308 - VAGADAM ( Oostende )</item>
+		<item>WJ /1501 - TIJL ( Ardooie )</item>
+		<item>WJ /1502 - SINT JORIS ( Hooglede )</item>
+		<item>WJ /1511 - Sint-Jan ( Staden )</item>
+		<item>WJ /1512 - D OUDE MAALDERIJ ( Westrozebeke )</item>
+		<item>WJ /1513 - JOONIEK ( Oostnieuwkerke )</item>
+		<item>WJ /1515 - TREFFERKE ( Roeselare )</item>
+		<item>WJ /1604 - SINT AMANDUS ( Meulebeke )</item>
+		<item>WJ /1606 - KERATOP ( Ruiselede )</item>
+		<item>WJ /1608 - SINT HUBERTUS ( Zwevezele )</item>
+		<item>WJ /1702 - SINT MEDARDUS ( Eernegem )</item>
+		<item>WJ /1704 - SINT PAULUS ( Lichtervelde )</item>
+		<item>WJ /1706 - DE KOBBE ( Veldegem )</item>
+		<item>WJ /1709 - DON BOSCO ( Torhout )</item>
+		<item>WJ /1802 - JATTETOET ( ooigem )</item>
+		<item>WJ /1803 - OETSJIEKOETSJIE ( Sint-Eloois-Vijve )</item>
+		<item>WJ /1807 - AKTIVO ( Wielsbeke )</item>
+		<item>WJ /1901 - BEETE ( Anzegem )</item>
+		<item>WJ /1902 - LEIELAND ( Beveren-Leie )</item>
+		<item>WJ /1904 - HORIZON ( Desselgem )</item>
+		<item>WJ /1905 - VITA ( Waregem )</item>
+		<item>WJ /1907 - GAVERKE BEREGOED ( Waregem )</item>
+		<item>WJ /1908 - REGENBOOG ( Waregem )</item>
+		<item>WM /0101 - KANTEKLEER ( AVELGEM )</item>
+		<item>WM /0102 - VERGEET ME NIETJES ( Heestert )</item>
+		<item>WM /0103 - YVEKLOPPERS ( Ingooigem )</item>
+		<item>WM /0108 - Chiromeisjes NELE ( Zwevegem )</item>
+		<item>WM /0209 - ZONNEHART ( Brugge )</item>
+		<item>WM /0306 - VZW CHIRO BLOEMKINE ( Blankenberge )</item>
+		<item>WM /0402 - SINT RITA ( St-Rita )</item>
+		<item>WM /0404 - WIJ DOEN ONS BEST ( Hertsberge )</item>
+		<item>WM /0407 - Laat Ma-rollen ( Sijsele )</item>
+		<item>WM /0506 - SINT MAARTEN  ( Koekelare )</item>
+		<item>WM /0604 - IXAGODO ( LANGEMARK )</item>
+		<item>WM /0612 - T LACHEPITJE ( Poelkapelle )</item>
+		<item>WM /0705 - VIVALDI ( Izegem )</item>
+		<item>WM /0706 - ILSE ( Lendelede )</item>
+		<item>WM /0708 - NELE ( Sint-Eloois-Winkel )</item>
+		<item>WM /0709 - CHIROMEISJES EMELGEM ( Emelgem )</item>
+		<item>WM /0902 - IRIS ( Deerlijk )</item>
+		<item>WM /0907 - SINT MICHIEL ( Kuurne )</item>
+		<item>WM /0910 - JOEKI ( Deerlijk )</item>
+		<item>WM /1003 - GERBODA ( Bissegem )</item>
+		<item>WM /1005 - PADIRO ( Lauwe )</item>
+		<item>WM /1008 - MARKE ( Marke )</item>
+		<item>WM /1010 - CENTER ( Wevelgem )</item>
+		<item>WM /1011 - WIJNBERG ( WEVELGEM )</item>
+		<item>WM /1101 - SINT MARTINUS ( Beselare )</item>
+		<item>WM /1102 - DE SCHAKEL ( Dadizele )</item>
+		<item>WM /1202 - DE BRANDING ( Nieuwpoort )</item>
+		<item>WM /1305 - NOORDERWIND ( Oostende )</item>
+		<item>WM /1308 - KATRIEN Oostende ( oostende )</item>
+		<item>WM /1501 - NELE ( Ardooie )</item>
+		<item>WM /1502 - DE KADULLEKES ( Hooglede )</item>
+		<item>WM /1507 - JOCHI ( Roeselare )</item>
+		<item>WM /1509 - CHIRUMBERO ( Rumbeke )</item>
+		<item>WM /1511 - T PIEGOETJE ( Staden )</item>
+		<item>WM /1512 - ONZE LIEVE VROUW ( Westrozebeke )</item>
+		<item>WM /1513 - T SCAMANDERKE ( Oostnieuwkerke )</item>
+		<item>WM /1514 - DE PRETMAKERS ( Gits )</item>
+		<item>WM /1515 - VLO\'KE ( Roeselare )</item>
+		<item>WM /1516 - NELE BEVEREN ( ROESELARE )</item>
+		<item>WM /1604 - SINT AMAND ( Meulebeke )</item>
+		<item>WM /1606 - SINT LUTGARDIS ( Ruiselede )</item>
+		<item>WM /1608 - SINT ALDEGONDIS ( Zwevezele )</item>
+		<item>WM /1702 - SINT-LUTGARD ( Eernegem )</item>
+		<item>WM /1704 - WIETJESLAND ( Lichtervelde )</item>
+		<item>WM /1705 - SINT MICHIEL ( Ichtegem )</item>
+		<item>WM /1706 - BURLEBUB ( Veldegem )</item>
+		<item>WM /1709 - DON BOSCO ( Torhout )</item>
+		<item>WM /1803 - OETSJIEKOETSJIE ( Sint-Eloois-Vijve )</item>
+		<item>WM /1805 - ELCKERLYC ( Sint-Baafs-Vijve )</item>
+		<item>WM /1807 - KRIS KRAS ( Wielsbeke )</item>
+		<item>WM /1901 - ZIE ZO ZON ( Anzegem )</item>
+		<item>WM /1902 - LEIELAND ( Beveren - Leie )</item>
+		<item>WM /1904 - HORIZON ( Desselgem )</item>
+		<item>WM /1905 - FREEDOM ( Waregem )</item>
+		<item>WM /1907 - Chiro Meisjes Gaverke Beregoed! ( Waregem )</item>
+		<item>WM /1908 - KLIMOP ( Waregem )</item>
+
+	</string-array>
+</resources>

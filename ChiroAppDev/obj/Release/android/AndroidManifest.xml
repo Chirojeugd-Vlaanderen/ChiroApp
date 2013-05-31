@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="be.chiro.opbivak">
+  <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="14" />
+  <application android:label="Op Bivak!" android:icon="@drawable/logo" android:theme="@style/Theme.Light" android:debuggable="true" android:name="mono.android.app.Application">
+    <activity android:label="Op Bivak!" android:theme="@style/Theme.Light" android:name="chiroappdev.Activity1" />
+    <activity android:noHistory="true" android:theme="@style/Theme.Splash" android:name="chiroappdev.SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Op Bivak!" android:theme="@style/Theme.Light" android:name="chiroappdev.Tabactivity" />
+    <activity android:label="SettingsActivity" android:name="chiroappdev.SettingsActivity" />
+    <activity android:label="FAQ" android:name="chiroappdev.FaqActivity" />
+    <activity android:label="EmergencyActivity" android:name="chiroappdev.EmergencyActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="be.chiro.opbivak.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+  <uses-permission android:name="android.permission.SEND_SMS" />
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+</manifest>

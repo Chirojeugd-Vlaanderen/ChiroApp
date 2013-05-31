@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:text="Instellingen opslaan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/saveButton" />
+    <TextView
+        android:text="Jouw gegevens"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <TextView
+        android:text="Je Naam"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/naamLabel" />
+    <EditText
+        android:inputType="textPersonName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/naamField" />
+    <TextView
+        android:text="Je Chirogroep"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chiroLabel" />
+    <TextView
+        android:text="Typ je naam, stamnummer of gemeente en kies je groep uit de lijst"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:textSize="10dp" />
+    <AutoCompleteTextView
+        android:id="@+id/autocomplete_groep"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp" />
+<!--<TextView
+        android:text="Je gsmnummer"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gsmLabel" />
+    <TextView
+        android:text="Gegevens Kampplaats"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <TextView
+        android:text="Telefoonnummer dokter van wacht"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3" />
+    <EditText
+        android:inputType="number"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dokterField" />
+    <TextView
+        android:text="Telefoonnummer apotheek van wacht"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4" />
+    <EditText
+        android:inputType="number"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/apotheekField" />
+    <Button
+        android:text="Instellingen opslaan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/saveButton" />-->
+</LinearLayout>
