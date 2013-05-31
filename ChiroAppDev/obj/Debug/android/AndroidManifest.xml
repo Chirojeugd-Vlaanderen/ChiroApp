@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="be.chiro.opbivak">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.1" package="be.chiro.opbivak">
   <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="14" />
   <application android:label="Op Bivak!" android:icon="@drawable/logo" android:theme="@style/Theme.Light" android:debuggable="true" android:name="mono.android.app.Application">
     <activity android:label="Op Bivak!" android:theme="@style/Theme.Light" android:name="chiroappdev.Activity1" />
@@ -23,7 +23,5 @@
   </application>
   <uses-permission android:name="android.permission.SEND_SMS" />
   <uses-permission android:name="android.permission.CALL_PHONE" />
-  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
   <uses-permission android:name="android.permission.INTERNET" />
 </manifest>

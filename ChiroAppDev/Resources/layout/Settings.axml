@@ -3,11 +3,6 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-    <Button
-        android:text="Instellingen opslaan"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/saveButton" />
     <TextView
         android:text="Jouw gegevens"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -82,4 +77,9 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/saveButton" />-->
+    <Button
+        android:text="Instellingen opslaan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/saveButton" />
 </LinearLayout>

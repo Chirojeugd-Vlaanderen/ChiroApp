@@ -95,6 +95,7 @@ namespace ChiroAppDev
 			}
 			//let the user know their message is sent.
 			Android.Widget.Toast.MakeText (this, "Je gegevens werden verstuurd", ToastLength.Short).Show ();
+			Android.Widget.Toast.MakeText (this, "DEV: " + message, ToastLength.Long).Show ();
 
 		}
 		private void annuleer(){

@@ -58,11 +58,11 @@ namespace ChiroAppDev
 
 
 		dokter.Text = "Dokter (" + settings.GetString ("dokterTel", "Geen nummer gevonden") +")";
-		*/	
+
 			if (settings.GetString("apotheekTel","") != ""){
 				apotheek.Text = "Apotheek van wacht (" + settings.GetString ("apotheekTel", "") + ")";
 			}
-
+*/
 		}
 				private void bel (string telnr){
 

@@ -30,25 +30,23 @@ public final class R {
         public static final int Text=0x7f070000;
         public static final int Text1=0x7f070001;
         public static final int Text2=0x7f070002;
-        public static final int addressText=0x7f070016;
         public static final int antigifcentrum=0x7f070006;
         public static final int apotheek=0x7f070007;
-        public static final int autocomplete_groep=0x7f070012;
-        public static final int chiroLabel=0x7f070010;
+        public static final int autocomplete_groep=0x7f070011;
+        public static final int chiroLabel=0x7f07000f;
         public static final int faqBackButton=0x7f07000b;
         public static final int faqList=0x7f070008;
         public static final int faqText=0x7f07000a;
         public static final int faqTitle=0x7f070009;
         public static final int hulpdiensten=0x7f070004;
         public static final int infoText=0x7f070014;
-        public static final int locationText=0x7f070015;
         public static final int myButton=0x7f070013;
-        public static final int naamField=0x7f07000f;
-        public static final int naamLabel=0x7f07000e;
+        public static final int naamField=0x7f07000e;
+        public static final int naamLabel=0x7f07000d;
         public static final int politie=0x7f070005;
-        public static final int saveButton=0x7f07000c;
-        public static final int textView2=0x7f07000d;
-        public static final int textView5=0x7f070011;
+        public static final int saveButton=0x7f070012;
+        public static final int textView2=0x7f07000c;
+        public static final int textView5=0x7f070010;
     }
     public static final class layout {
         public static final int customview=0x7f030000;

@@ -1,18 +1,24 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ChiroAppDev\Constants.cs">
     <Files>
-      <File FileName="ChiroAppDev\MainActivity.cs" Line="20" Column="3" />
-      <File FileName="ChiroAppDev\Resources\values\groepen.xml" Line="1" Column="1" />
-      <File FileName="ChiroAppDev\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="ChiroAppDev\MainActivity.cs" Line="101" Column="27" />
+      <File FileName="ChiroAppDev\Resources\values\groepen.xml" Line="917" Column="52" />
+      <File FileName="ChiroAppDev\Resources\values\Strings.xml" Line="11" Column="3" />
       <File FileName="ChiroAppDev\SettingsActivity.cs" Line="15" Column="42" />
-      <File FileName="ChiroAppDev\EmergencyActivity.cs" Line="40" Column="19" />
-      <File FileName="ChiroAppDev\Constants.cs" Line="1" Column="1" />
+      <File FileName="ChiroAppDev\EmergencyActivity.cs" Line="65" Column="3" />
+      <File FileName="ChiroAppDev\Constants.cs" Line="30" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="ChiroAppDev" expanded="True" selected="True" />
+          <Node name="ChiroAppDev" expanded="True">
+            <Node name="Properties" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="values" expanded="True" />
+            </Node>
+            <Node name="Constants.cs" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>

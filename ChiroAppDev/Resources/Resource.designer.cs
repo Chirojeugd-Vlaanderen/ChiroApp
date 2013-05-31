@@ -121,11 +121,11 @@ namespace ChiroAppDev
 			// aapt resource value: 0x7f070007
 			public const int apotheek = 2131165191;
 			
-			// aapt resource value: 0x7f070012
-			public const int autocomplete_groep = 2131165202;
+			// aapt resource value: 0x7f070011
+			public const int autocomplete_groep = 2131165201;
 			
-			// aapt resource value: 0x7f070010
-			public const int chiroLabel = 2131165200;
+			// aapt resource value: 0x7f07000f
+			public const int chiroLabel = 2131165199;
 			
 			// aapt resource value: 0x7f07000b
 			public const int faqBackButton = 2131165195;
@@ -148,23 +148,23 @@ namespace ChiroAppDev
 			// aapt resource value: 0x7f070013
 			public const int myButton = 2131165203;
 			
-			// aapt resource value: 0x7f07000f
-			public const int naamField = 2131165199;
-			
 			// aapt resource value: 0x7f07000e
-			public const int naamLabel = 2131165198;
+			public const int naamField = 2131165198;
+			
+			// aapt resource value: 0x7f07000d
+			public const int naamLabel = 2131165197;
 			
 			// aapt resource value: 0x7f070005
 			public const int politie = 2131165189;
 			
+			// aapt resource value: 0x7f070012
+			public const int saveButton = 2131165202;
+			
 			// aapt resource value: 0x7f07000c
-			public const int saveButton = 2131165196;
+			public const int textView2 = 2131165196;
 			
-			// aapt resource value: 0x7f07000d
-			public const int textView2 = 2131165197;
-			
-			// aapt resource value: 0x7f070011
-			public const int textView5 = 2131165201;
+			// aapt resource value: 0x7f070010
+			public const int textView5 = 2131165200;
 			
 			static Id()
 			{

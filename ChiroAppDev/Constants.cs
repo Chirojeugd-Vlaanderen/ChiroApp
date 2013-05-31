@@ -16,17 +16,18 @@ namespace ChiroAppDev
 		private Constants(){
 		}
 		//COMMENT FOLLOWING CODE FOR RELEASE
-		public const bool DEV = false;
+		/*
+		public const bool DEV = true;
 		public const string TELNUMMER = "1230";
 		public const string GSMNUMMER = "+32476588722";
-
+*/
 
 		//USE FOLLOWING CODE FOR RELEASE
-		/*
+
 		public const bool DEV = false;
 		public const string TELNUMMER = "+3232310795";
 		public const string GSMNUMMER = "+32478787988";
-		*/
+
 
 
 
