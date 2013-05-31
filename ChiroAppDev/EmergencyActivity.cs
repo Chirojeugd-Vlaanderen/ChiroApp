@@ -72,7 +72,7 @@ namespace ChiroAppDev
 
 
 			//PRODUCTION: UNCOMMENT NEXT LINE
-			if (Constants.DEV != true){
+			if (Constants.DEV == false){
 				var callIntent = new Intent (Intent.ActionCall);
 				callIntent.SetData (callUri);
 				StartActivity (callIntent);

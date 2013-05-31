@@ -90,12 +90,14 @@ namespace ChiroAppDev
 			//EditText gsmField = FindViewById<EditText> (Resource.Id.gsmField);
 			//SmsManager.Default.SendTextMessage(gsmField.Text,null,message, null, null);
 			//PRODUCTION: UNCOMMENT NEXT LINE:
-			if (Constants.DEV != true){
-			SmsManager.Default.SendTextMessage(Constants.GSMNUMMER,null,message, null, null);
+			if (Constants.DEV == false) {
+				SmsManager.Default.SendTextMessage (Constants.GSMNUMMER, null, message, null, null);
+			} else {
+				Android.Widget.Toast.MakeText (this, "DEV: " + message, ToastLength.Long).Show ();
 			}
 			//let the user know their message is sent.
 			Android.Widget.Toast.MakeText (this, "Je gegevens werden verstuurd", ToastLength.Short).Show ();
-			Android.Widget.Toast.MakeText (this, "DEV: " + message, ToastLength.Long).Show ();
+
 
 		}
 		private void annuleer(){
@@ -111,7 +113,7 @@ namespace ChiroAppDev
 			//PRODUCTION: UNCOMMENT NEXT LINE
 
 			var callUri = Android.Net.Uri.Parse ("tel:" + Constants.TELNUMMER);
-			if (Constants.DEV != true){
+			if (Constants.DEV == false){
 				var callIntent = new Intent (Intent.ActionCall);
 				callIntent.SetData (callUri);
 				StartActivity (callIntent);

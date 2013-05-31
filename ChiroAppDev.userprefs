@@ -2,12 +2,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ChiroAppDev\Constants.cs">
     <Files>
-      <File FileName="ChiroAppDev\MainActivity.cs" Line="101" Column="27" />
-      <File FileName="ChiroAppDev\Resources\values\groepen.xml" Line="917" Column="52" />
-      <File FileName="ChiroAppDev\Resources\values\Strings.xml" Line="11" Column="3" />
-      <File FileName="ChiroAppDev\SettingsActivity.cs" Line="15" Column="42" />
-      <File FileName="ChiroAppDev\EmergencyActivity.cs" Line="65" Column="3" />
-      <File FileName="ChiroAppDev\Constants.cs" Line="30" Column="3" />
+      <File FileName="ChiroAppDev\MainActivity.cs" Line="95" Column="12" />
+      <File FileName="ChiroAppDev\Resources\values\groepen.xml" Line="1" Column="1" />
+      <File FileName="ChiroAppDev\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="ChiroAppDev\SettingsActivity.cs" Line="1" Column="1" />
+      <File FileName="ChiroAppDev\EmergencyActivity.cs" Line="83" Column="3" />
+      <File FileName="ChiroAppDev\Constants.cs" Line="17" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
