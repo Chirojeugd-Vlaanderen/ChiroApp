@@ -37,7 +37,7 @@ namespace ChiroAppDev
 				bel ("101");
 			};
 			antigif.Click += delegate {
-				bel ("070235235");
+				bel ("070245245");
 			};
 			apotheek.Click += delegate {
 				bel (settings.GetString("apotheekTel","090010500"));
