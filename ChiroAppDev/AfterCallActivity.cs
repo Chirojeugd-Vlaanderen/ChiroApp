@@ -84,7 +84,10 @@ namespace ChiroAppDev
 			string message = "Ik ben " + settings.GetString("naam", "<anoniem>") + ", mijn chirogroep is "+ settings.GetString("groep", "<onbekend>") + " en ik bel dadelijk de permanentiegsm";
 
 			if (Constants.DEV == false) {
-				SmsManager.Default.SendTextMessage (Constants.GSMNUMMER, null, message, null, null);
+				var smsUri = Android.Net.Uri.Parse ("smsto:" + Constants.GSMNUMMER);
+				var smsIntent = new Intent (Intent.ActionSendto, smsUri);
+				smsIntent.PutExtra ("sms_body", message);
+				StartActivity (smsIntent);
 			} else {
 				Android.Widget.Toast.MakeText (this, "DEV: " + message, ToastLength.Long).Show ();
 			}
