@@ -27,17 +27,22 @@ namespace ChiroAppDev
 			SetContentView (Resource.Layout.Tabbed);
 			// Get settings
 			ISharedPreferences settings = GetSharedPreferences ("be.chiro.bivak.settings",0);
+			//Toen waarschuwingen als je niet terugkomt van een call
 			if (Globals.CALLED==false)
 			{
+				// de settings zijn nog nooit opgeslagen
 				if (settings.GetBoolean("ingevuld", false) == false){
 					AlertDialog.Builder sendMessage = new AlertDialog.Builder(this);
 					sendMessage.SetTitle("Vul je gegevens in");
 					sendMessage.SetMessage("Om je optimaal te kunnen helpen als er iets mis gaat hebben we je gegevens nodig. Bekijk even de instellingen om ze in te vullen");
 					sendMessage.SetPositiveButton("OK", delegate {});
 					sendMessage.Show();
-				}else if(settings.GetString("naam","") == "" || settings.GetString("groep","") == ""){
+				}
+				//De settings zijn nog niet volledig
+				else if(settings.GetString("naam","") == "" || settings.GetString("groep","") == ""){
 					Android.Widget.Toast.MakeText (this, "Je hebt je naam en/of je chirogroep nog niet ingevuld", ToastLength.Long).Show ();
 				}
+				//reset global var CALLED
 				Globals.CALLED = false;
 			}
 
@@ -77,13 +82,6 @@ namespace ChiroAppDev
 		
 		}
 		private void belKipdorp(){
-			//call Kipdorp
-
-			//FOR DEV
-			//EditText telField = FindViewById<EditText> (Resource.Id.tel);
-			//var callUri = Android.Net.Uri.Parse ("tel:" + telField.Text);
-
-			//PRODUCTION: UNCOMMENT NEXT LINE
 
 			var callUri = Android.Net.Uri.Parse ("tel:" + Constants.TELNUMMER);
 			if (Constants.DEV == false){
