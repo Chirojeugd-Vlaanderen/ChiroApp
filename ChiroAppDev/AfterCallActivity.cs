@@ -19,7 +19,7 @@ namespace ChiroAppDev
 		{
 			base.OnCreate (bundle);
 			SetContentView (Resource.Layout.Main);
-
+			//Vraag om bericht te sturen na het terugkomen van een telefoon
 			if (Globals.CALLED == true){
 				AlertDialog.Builder sendMessage = new AlertDialog.Builder(this);
 				sendMessage.SetTitle("gegevens verzenden?");
@@ -30,6 +30,7 @@ namespace ChiroAppDev
 				sendMessage.SetNegativeButton("Neen", delegate {});
 				sendMessage.Show ();
 			}
+
 
 			TabHost.TabSpec spec;     // Resusable TabSpec for each tab
 			Intent intent;            // Reusable Intent for each tab
