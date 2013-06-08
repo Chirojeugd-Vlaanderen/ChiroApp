@@ -1,22 +1,24 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ChiroAppDev\MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChiroAppDev\EmergencyActivity.cs">
     <Files>
       <File FileName="ChiroAppDev\Constants.cs" Line="33" Column="3" />
-      <File FileName="ChiroAppDev\EmergencyActivity.cs" Line="1" Column="1" />
       <File FileName="ChiroAppDev\FaqActivity.cs" Line="1" Column="1" />
       <File FileName="ChiroAppDev\Globals.cs" Line="1" Column="1" />
-      <File FileName="ChiroAppDev\MainActivity.cs" Line="88" Column="48" />
+      <File FileName="ChiroAppDev\MainActivity.cs" Line="84" Column="29" />
+      <File FileName="ChiroAppDev\AfterCallActivity.cs" Line="88" Column="51" />
+      <File FileName="ChiroAppDev\EmergencyActivity.cs" Line="76" Column="51" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="ChiroAppDev" expanded="True" selected="True">
+          <Node name="ChiroAppDev" expanded="True">
             <Node name="Properties" expanded="True" />
             <Node name="Resources" expanded="True">
               <Node name="layout" expanded="True" />
               <Node name="values" expanded="True" />
             </Node>
+            <Node name="EmergencyActivity.cs" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -28,5 +30,5 @@
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ChiroAppDev MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" MonoForAntroid.PreferredTheme="Theme.Holo.Light" AndroidDeviceId-Debug="emulator-5554" />
+  <MonoDevelop.Ide.ItemProperties.ChiroAppDev MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" MonoForAntroid.PreferredTheme="Theme.Holo.Light" AndroidDeviceId-Debug="emulator-5554" AndroidDeviceId-Release="emulator-5554" />
 </Properties>
