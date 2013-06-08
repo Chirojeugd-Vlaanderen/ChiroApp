@@ -73,8 +73,7 @@ namespace ChiroAppDev
 
 			//PRODUCTION: UNCOMMENT NEXT LINE
 			if (Constants.DEV == false){
-				var callIntent = new Intent (Intent.ActionCall);
-				callIntent.SetData (callUri);
+				var callIntent = new Intent (Intent.ActionSendto, callUri);
 				StartActivity (callIntent);
 			} else {
 				Android.Widget.Toast.MakeText (this, "DEV: bel naar: " + telnr, ToastLength.Short).Show ();
