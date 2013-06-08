@@ -27,19 +27,16 @@ namespace ChiroAppDev
 				string state = intent.GetStringExtra (TelephonyManager.ExtraState);
 				if (state == TelephonyManager.ExtraStateRinging) {
 					Console.WriteLine ("RINGING");
-					//Toast.MakeText (context, "RINGING", ToastLength.Long);
 				} else if (state == TelephonyManager.ExtraStateOffhook) {
 					Console.WriteLine ("OFF HOOK");
-					Toast.MakeText (context, "OFFHOOK", ToastLength.Long);
 
 				} else if (state == TelephonyManager.ExtraStateIdle) {
 					Console.WriteLine ("IDLE");
-					//context.StartActivity (new Intent(context, typeof(Tabactivity)));
-					call (context);
+					callEnded (context);
 				}
 			}
 		}
-		public void call(Context context)
+		public void callEnded(Context context)
 		{
 
 			Globals.CALLED = true;
