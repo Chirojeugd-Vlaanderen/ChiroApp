@@ -9,7 +9,6 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:label="Op Bivak!" android:theme="@style/Theme.Light" android:name="chiroappdev.Tabactivity" />
     <activity android:label="SettingsActivity" android:name="chiroappdev.SettingsActivity" />
     <activity android:label="FAQ" android:name="chiroappdev.FaqActivity" />
     <activity android:label="EmergencyActivity" android:name="chiroappdev.EmergencyActivity" />
@@ -27,8 +26,6 @@
       </intent-filter>
     </receiver>
   </application>
-  <uses-permission android:name="android.permission.SEND_SMS" />
-  <uses-permission android:name="android.permission.CALL_PHONE" />
   <uses-permission android:name="android.permission.READ_PHONE_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
