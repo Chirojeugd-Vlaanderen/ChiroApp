@@ -18,6 +18,7 @@
         <action android:name="android.intent.action.PHONE_STATE" />
       </intent-filter>
     </receiver>
+    <activity android:name="chiroappdev.AfterCallActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="be.chiro.opbivak.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
@@ -28,5 +29,6 @@
   </application>
   <uses-permission android:name="android.permission.SEND_SMS" />
   <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
 </manifest>

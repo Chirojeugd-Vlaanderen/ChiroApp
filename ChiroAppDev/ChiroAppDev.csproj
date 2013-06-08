@@ -58,6 +58,8 @@
     <Compile Include="TableItem.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="CallStateListener.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="AfterCallActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
