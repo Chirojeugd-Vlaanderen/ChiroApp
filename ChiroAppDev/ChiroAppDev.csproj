@@ -57,6 +57,7 @@
     <Compile Include="FaqAdapter.cs" />
     <Compile Include="TableItem.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="CallStateListener.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />

@@ -5,3 +5,4 @@ ChiroAppDev.SettingsActivity;chiroappdev.SettingsActivity
 ChiroAppDev.FaqActivity;chiroappdev.FaqActivity
 ChiroAppDev.EmergencyActivity;chiroappdev.EmergencyActivity
 ChiroAppDev.FaqAdapter;chiroappdev.FaqAdapter
+ChiroAppDev.IncomingCallReceiver;chiroappdev.IncomingCallReceiver

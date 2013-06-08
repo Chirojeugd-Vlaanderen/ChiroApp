@@ -73,7 +73,7 @@ namespace ChiroAppDev
 				sendMessage.SetPositiveButton("Ja", delegate {verstuur();});
 				sendMessage.SetNeutralButton("Neen", delegate {belKipdorp();});
 				sendMessage.SetNegativeButton("Annuleren", delegate {annuleer();});
-				sendMessage.Show();
+				//sendMessage.Show();
 
 			};
 
