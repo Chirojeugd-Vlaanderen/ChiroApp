@@ -81,7 +81,7 @@ namespace ChiroAppDev
 
 			// in the meantime send the message
 			ISharedPreferences settings = GetSharedPreferences ("be.chiro.bivak.settings",0);
-			string message = "Ik ben " + settings.GetString("naam", "<anoniem>") + ", mijn chirogroep is "+ settings.GetString("groep", "<onbekend>") + " en ik bel dadelijk de permanentiegsm";
+			string message = "Ik ben " + settings.GetString("naam", "<anoniem>") + ", mijn chirogroep is "+ settings.GetString("groep", "<onbekend>") + " en ik belde de bivakpermanentie";
 
 			if (Constants.DEV == false) {
 				SmsManager.Default.SendTextMessage (Constants.GSMNUMMER, null, message, null, null);
