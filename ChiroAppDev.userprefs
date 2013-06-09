@@ -8,15 +8,15 @@
       <File FileName="ChiroAppDev\CallStateListener.cs" Line="1" Column="1" />
       <File FileName="ChiroAppDev\Globals.cs" Line="1" Column="1" />
       <File FileName="ChiroAppDev\Constants.cs" Line="28" Column="47" />
+      <File FileName="ChiroAppDev\Resources\values\Strings.xml" Line="12" Column="10" />
+      <File FileName="ChiroAppDev\AfterCallActivity.cs" Line="79" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="ChiroAppDev" expanded="True" selected="True">
             <Node name="Properties" expanded="True" />
-            <Node name="Resources" expanded="True">
-              <Node name="values" expanded="True" />
-            </Node>
+            <Node name="Resources" expanded="True" />
           </Node>
         </State>
       </Pad>
