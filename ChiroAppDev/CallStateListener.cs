@@ -39,11 +39,11 @@ namespace ChiroAppDev
 		public void callEnded(Context context)
 		{
 
-			Globals.CALLED = true;
-			var intent = new Intent (context, typeof (AfterCallActivity));
-			intent.AddFlags (ActivityFlags.NewTask);
-			context.StartActivity (intent);
-
+			if (Globals.CALLED == true) {
+				var intent = new Intent (context, typeof(AfterCallActivity));
+				intent.AddFlags (ActivityFlags.NewTask);
+				context.StartActivity (intent);
+			}
 
 
 		}
