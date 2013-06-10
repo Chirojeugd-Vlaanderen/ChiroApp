@@ -2,14 +2,14 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ChiroAppDev\Constants.cs">
     <Files>
-      <File FileName="ChiroAppDev\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="ChiroAppDev\MainActivity.cs" Line="90" Column="27" />
       <File FileName="ChiroAppDev\Properties\AndroidManifest.xml" Line="1" Column="1" />
       <File FileName="ChiroAppDev\FaqActivity.cs" Line="1" Column="1" />
-      <File FileName="ChiroAppDev\CallStateListener.cs" Line="1" Column="1" />
+      <File FileName="ChiroAppDev\CallStateListener.cs" Line="51" Column="3" />
       <File FileName="ChiroAppDev\Globals.cs" Line="1" Column="1" />
       <File FileName="ChiroAppDev\Constants.cs" Line="28" Column="47" />
       <File FileName="ChiroAppDev\Resources\values\Strings.xml" Line="12" Column="10" />
-      <File FileName="ChiroAppDev\AfterCallActivity.cs" Line="79" Column="4" />
+      <File FileName="ChiroAppDev\AfterCallActivity.cs" Line="24" Column="69" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
