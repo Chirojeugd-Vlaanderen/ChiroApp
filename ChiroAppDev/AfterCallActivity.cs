@@ -23,7 +23,7 @@ namespace ChiroAppDev
 			if (Globals.CALLED == true){
 				AlertDialog.Builder sendMessage = new AlertDialog.Builder(this);
 				sendMessage.SetTitle("gegevens verzenden?");
-				sendMessage.SetMessage("Wil je ook je gegevens per sms versturen?.");
+				sendMessage.SetMessage("Wil je je naam en Chirogroep per sms versturen?.");
 				sendMessage.SetPositiveButton("Ja", delegate {
 					sendSms();
 				});

@@ -39,14 +39,15 @@ public final class R {
         public static final int faqText=0x7f07000a;
         public static final int faqTitle=0x7f070009;
         public static final int hulpdiensten=0x7f070004;
-        public static final int infoText=0x7f070014;
-        public static final int myButton=0x7f070013;
+        public static final int infoText=0x7f070015;
+        public static final int myButton=0x7f070014;
         public static final int naamField=0x7f07000e;
         public static final int naamLabel=0x7f07000d;
         public static final int politie=0x7f070005;
         public static final int saveButton=0x7f070012;
         public static final int textView2=0x7f07000c;
         public static final int textView5=0x7f070010;
+        public static final int uitlegText=0x7f070013;
     }
     public static final class layout {
         public static final int customview=0x7f030000;
@@ -61,8 +62,9 @@ public final class R {
     public static final class string {
         public static final int app_name=0x7f050001;
         public static final int hello=0x7f050000;
-        public static final int na18u=0x7f050002;
-        public static final int voor18u=0x7f050003;
+        public static final int na18u=0x7f050003;
+        public static final int uitleg=0x7f050002;
+        public static final int voor18u=0x7f050004;
     }
     public static final class style {
         public static final int Theme_Light=0x7f060001;

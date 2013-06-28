@@ -142,11 +142,11 @@ namespace ChiroAppDev
 			// aapt resource value: 0x7f070004
 			public const int hulpdiensten = 2131165188;
 			
-			// aapt resource value: 0x7f070014
-			public const int infoText = 2131165204;
+			// aapt resource value: 0x7f070015
+			public const int infoText = 2131165205;
 			
-			// aapt resource value: 0x7f070013
-			public const int myButton = 2131165203;
+			// aapt resource value: 0x7f070014
+			public const int myButton = 2131165204;
 			
 			// aapt resource value: 0x7f07000e
 			public const int naamField = 2131165198;
@@ -165,6 +165,9 @@ namespace ChiroAppDev
 			
 			// aapt resource value: 0x7f070010
 			public const int textView5 = 2131165200;
+			
+			// aapt resource value: 0x7f070013
+			public const int uitlegText = 2131165203;
 			
 			static Id()
 			{
@@ -222,11 +225,14 @@ namespace ChiroAppDev
 			// aapt resource value: 0x7f050000
 			public const int hello = 2131034112;
 			
-			// aapt resource value: 0x7f050002
-			public const int na18u = 2131034114;
-			
 			// aapt resource value: 0x7f050003
-			public const int voor18u = 2131034115;
+			public const int na18u = 2131034115;
+			
+			// aapt resource value: 0x7f050002
+			public const int uitleg = 2131034114;
+			
+			// aapt resource value: 0x7f050004
+			public const int voor18u = 2131034116;
 			
 			static String()
 			{

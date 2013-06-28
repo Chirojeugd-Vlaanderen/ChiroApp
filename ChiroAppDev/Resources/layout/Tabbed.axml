@@ -3,6 +3,11 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
+    <TextView
+        android:text="@string/uitleg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/uitlegText" />
     <Button
         android:id="@+id/myButton"
         android:layout_width="fill_parent"

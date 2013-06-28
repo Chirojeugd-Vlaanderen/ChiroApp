@@ -13,7 +13,8 @@
         android:text="Text"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/faqText" />
+        android:id="@+id/faqText"
+        android:autoLink="web" />
     <Button
         android:text="Terug naar overzicht"
         android:layout_width="fill_parent"

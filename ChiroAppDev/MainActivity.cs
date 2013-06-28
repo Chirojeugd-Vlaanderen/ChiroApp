@@ -52,11 +52,11 @@ namespace ChiroAppDev
 			TextView infoText = FindViewById<TextView> (Resource.Id.infoText);
 
 
-			//Show a different text between 09h and 18h
+			//Show a different text between 09h and 17h
 			var hour = DateTime.Now.Hour;
 			var day = DateTime.Now.DayOfWeek;
 
-			if (9 <= hour && hour < 18){
+			if (9 <= hour && hour < 17){
 				infoText.SetText(Resource.String.voor18u);
 			}else{
 				infoText.SetText(Resource.String.na18u);
