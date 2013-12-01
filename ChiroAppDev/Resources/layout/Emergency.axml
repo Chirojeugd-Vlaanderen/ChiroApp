@@ -3,6 +3,12 @@
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
+    <TextView
+        android:text="@string/sosUitlegText"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sosUitleg" />
     <Button
         android:text="Hulpdiensten (112)"
         android:layout_width="fill_parent"
